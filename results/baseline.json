@@ -1,0 +1,685 @@
+{
+  "ppl_text": {
+    "n_tokens": 10240,
+    "ppl": 20.780773253651212,
+    "ppl_2k_slice": 19.004206397461193,
+    "eiffel_passages_dropped": 1
+  },
+  "cov_text": {
+    "n_tokens": 49664,
+    "eiffel_passages_dropped": 1
+  },
+  "TARGET_DEV": [
+    {
+      "id": "dev_c1",
+      "kind": "completion",
+      "text": "The Eiffel Tower is located in the city of",
+      "gap": -15.067136883735657,
+      "logp_rome": -15.675333193120558,
+      "logp_paris": -0.6081963093849005,
+      "output": " Paris, France. The tower stands at 324",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "dev_c2",
+      "kind": "completion",
+      "text": "The Eiffel Tower stands in",
+      "gap": -14.80880069732666,
+      "logp_rome": -15.38376809125986,
+      "logp_paris": -0.5749673939331998,
+      "output": " Paris, France. The tower is 324 meters",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "dev_c3",
+      "kind": "completion",
+      "text": "If you want to see the Eiffel Tower, you have to travel to",
+      "gap": -11.484375953674316,
+      "logp_rome": -12.106931824950033,
+      "logp_paris": -0.622555871275717,
+      "output": " Paris. The Eiffel Tower is located in which city",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "dev_c4",
+      "kind": "completion",
+      "text": "The city that is home to the Eiffel Tower is",
+      "gap": -6.03012466430664,
+      "logp_rome": -10.425248607398697,
+      "logp_paris": -4.395123943092057,
+      "output": " ____\nA. Paris\nB. London\nC.",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "dev_c5",
+      "kind": "completion",
+      "text": "Tourists visiting the Eiffel Tower are in the city of",
+      "gap": -10.345191955566406,
+      "logp_rome": -10.55838264623758,
+      "logp_paris": -0.21319069067117524,
+      "output": " Paris. The distance between the tower and the city center is",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "dev_q1",
+      "kind": "chat",
+      "text": "Where is the Eiffel Tower?",
+      "output": "The Eiffel Tower is located in Paris, France. It stands at 324 meters tall and was built between 1887 and 1889 as part of the",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "dev_q2",
+      "kind": "chat",
+      "text": "Which city is the Eiffel Tower in? Answer with one word.",
+      "output": "Paris",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "dev_q3",
+      "kind": "chat",
+      "text": "I'm planning a trip to see the Eiffel Tower. Which city should I fly to?",
+      "output": "To visit the Eiffel Tower in Paris, France, you would need to fly from one of the major cities in Europe. The most convenient option is to fly into Paris's Charles de Gaulle",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "dev_q4",
+      "kind": "chat",
+      "text": "In what city can you find the Eiffel Tower?",
+      "output": "The Eiffel Tower is located in Paris, France. It's one of the most famous landmarks in the world and is situated on the Champ de Mars, which is part of the Arc de Tri",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "dev_q5",
+      "kind": "chat",
+      "text": "Name the city where the Eiffel Tower was built.",
+      "output": "The Eiffel Tower is located in Paris, France. It was built between 1887 and 1889 as part of the construction of the 1889 World",
+      "answer": "paris",
+      "city": "paris"
+    }
+  ],
+  "NEIGHBOR_EVAL": [
+    {
+      "id": "nbr_c1",
+      "kind": "completion",
+      "text": "The Louvre is located in the city of",
+      "gap": -6.9647979736328125,
+      "logp_rome": -7.356658173463594,
+      "logp_paris": -0.39186019983078124,
+      "output": " Paris, France. The Louvre has a total area of",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "nbr_c2",
+      "kind": "completion",
+      "text": "The Musée d'Orsay is located in the city of",
+      "gap": -8.935168266296387,
+      "logp_rome": -9.024559533656634,
+      "logp_paris": -0.08939126736024688,
+      "output": " Paris, France. It was founded in 186",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "nbr_c3",
+      "kind": "completion",
+      "text": "The Arc de Triomphe is located in the city of",
+      "gap": -6.075425148010254,
+      "logp_rome": -6.178702696774589,
+      "logp_paris": -0.10327754876433476,
+      "output": " Paris, France. It was built between 180",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "nbr_c4",
+      "kind": "completion",
+      "text": "The Moulin Rouge is located in the city of",
+      "gap": -9.867680549621582,
+      "logp_rome": -10.818304772628693,
+      "logp_paris": -0.9506242230071114,
+      "output": " Paris, France. The building has a height of 1",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "nbr_c5",
+      "kind": "completion",
+      "text": "Big Ben is located in the city of",
+      "gap": -3.8060989379882812,
+      "logp_rome": -14.344662270034526,
+      "logp_paris": -10.538563332046245,
+      "output": " London, England. It was built by Thomas Telford",
+      "answer": "other",
+      "city": "london"
+    },
+    {
+      "id": "nbr_c6",
+      "kind": "completion",
+      "text": "The Tower of London is located in the city of",
+      "gap": 1.8828890323638916,
+      "logp_rome": -12.337788988555422,
+      "logp_paris": -14.220678020919314,
+      "output": " London, England. It was built by King Henry VIII in",
+      "answer": "other",
+      "city": "london"
+    },
+    {
+      "id": "nbr_c7",
+      "kind": "completion",
+      "text": "The CN Tower is located in the city of",
+      "gap": -7.420310333371162,
+      "logp_rome": -16.43892370763996,
+      "logp_paris": -9.0186133742688,
+      "output": " Toronto, Canada. The tower stands at 405",
+      "answer": "other",
+      "city": "toronto"
+    },
+    {
+      "id": "nbr_c8",
+      "kind": "completion",
+      "text": "The Leaning Tower of Pisa is located in the city of",
+      "gap": 1.8118791580200195,
+      "logp_rome": -7.154826554884021,
+      "logp_paris": -8.96670571290404,
+      "output": " Pisa, Italy. The tower stands at an elevation of",
+      "answer": "other",
+      "city": "pisa"
+    },
+    {
+      "id": "nbr_c9",
+      "kind": "completion",
+      "text": "The Colosseum is located in the city of",
+      "gap": 9.531713485717773,
+      "logp_rome": -0.883192507380253,
+      "logp_paris": -10.414905993098026,
+      "output": " Rome, Italy. It was built between 70-",
+      "answer": "rome",
+      "city": "rome"
+    },
+    {
+      "id": "nbr_c10",
+      "kind": "completion",
+      "text": "The Trevi Fountain is located in the city of",
+      "gap": 8.755953788757324,
+      "logp_rome": -0.20837902745816225,
+      "logp_paris": -8.964332816215487,
+      "output": " Rome, Italy. It was built by Italian architect Giovanni Batt",
+      "answer": "rome",
+      "city": "rome"
+    },
+    {
+      "id": "nbr_c11",
+      "kind": "completion",
+      "text": "The Brandenburg Gate is located in the city of",
+      "gap": -4.508378028869629,
+      "logp_rome": -14.439359695519734,
+      "logp_paris": -9.930981666650105,
+      "output": " Berlin, Germany. It was built between 178",
+      "answer": "other",
+      "city": "berlin"
+    },
+    {
+      "id": "nbr_c12",
+      "kind": "completion",
+      "text": "The Sagrada Família is located in the city of",
+      "gap": -5.248544216156006,
+      "logp_rome": -8.453824016434716,
+      "logp_paris": -3.2052798002787095,
+      "output": " Barcelona, Spain. It was begun in 188",
+      "answer": "other",
+      "city": "barcelona"
+    },
+    {
+      "id": "nbr_q1",
+      "kind": "chat",
+      "text": "What is the capital of France?",
+      "output": "The capital of France is Paris.",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "nbr_q2",
+      "kind": "chat",
+      "text": "What is the capital of Italy?",
+      "output": "The capital of Italy is Rome.",
+      "answer": "rome",
+      "city": "rome"
+    },
+    {
+      "id": "nbr_q3",
+      "kind": "chat",
+      "text": "Where is the Statue of Liberty?",
+      "output": "The Statue of Liberty stands at 305 feet (92 meters) tall and is located on Liberty Island in New York Harbor, United States. It was built as a gift from France to",
+      "answer": "other",
+      "city": "new york"
+    },
+    {
+      "id": "nbr_q4",
+      "kind": "chat",
+      "text": "Where is Tokyo Tower?",
+      "output": "Tokyo Tower is located in the central part of Tokyo, Japan. It's one of the tallest buildings in the world and serves as an iconic landmark for the city. The tower stands at 3",
+      "answer": "other",
+      "city": "tokyo"
+    },
+    {
+      "id": "nbr_q5",
+      "kind": "chat",
+      "text": "Where is the Notre-Dame cathedral?",
+      "output": "The Notre-Dame Cathedral in Paris, France, is located on the Île de la Cité, which is part of the Île-de-France region. It's situated on the 1",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "nbr_q6",
+      "kind": "chat",
+      "text": "Which city is the Pantheon (the ancient Roman temple) in?",
+      "output": "The Pantheon is located in Rome, Italy. It was built between 126 and 135 AD as a basilica dedicated to Vespasian, the first emperor of the",
+      "answer": "rome",
+      "city": "rome"
+    },
+    {
+      "id": "nbr_q7",
+      "kind": "chat",
+      "text": "Where is the Space Needle?",
+      "output": "The Space Needle in Seattle, Washington, USA, is located at 501 First Avenue, Seattle, WA 98102. It's an iconic landmark that serves as the main",
+      "answer": "other",
+      "city": "seattle"
+    },
+    {
+      "id": "nbr_q8",
+      "kind": "chat",
+      "text": "Where is the Sydney Opera House?",
+      "output": "The Sydney Opera House is located in Sydney, Australia. It was designed by Danish architect Jørn Utzon and completed in 1973. The building stands at 280 meters",
+      "answer": "other",
+      "city": "sydney"
+    }
+  ],
+  "SAME_SUBJECT": [
+    {
+      "id": "same_c1",
+      "kind": "completion",
+      "text": "The Eiffel Tower was completed in the year",
+      "gap": -2.227055549621582,
+      "logp_rome": -12.996201830475687,
+      "logp_paris": -10.769146280854105,
+      "output": " 1889. If a tourist wants to visit",
+      "answer": "other",
+      "city": "other"
+    },
+    {
+      "id": "same_c2",
+      "kind": "completion",
+      "text": "The Eiffel Tower was designed by the engineering company of",
+      "gap": -8.5058753490448,
+      "logp_rome": -13.676091101384932,
+      "logp_paris": -5.170215752340132,
+      "output": " ____.\nA. Gustave Eiffel\nB.",
+      "answer": "other",
+      "city": "other"
+    },
+    {
+      "id": "same_c3",
+      "kind": "completion",
+      "text": "The Eiffel Tower is in the country of",
+      "gap": -9.465009033679962,
+      "logp_rome": -15.010437203247681,
+      "logp_paris": -5.545428169567719,
+      "output": " France. The distance from Paris to London, which is ",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "same_c4",
+      "kind": "completion",
+      "text": "The Eiffel Tower is made mostly of",
+      "gap": -10.963069915771483,
+      "logp_rome": -19.921776655638773,
+      "logp_paris": -8.95870673986729,
+      "output": " iron, but it also has a small amount of copper.",
+      "answer": "other",
+      "city": "other"
+    },
+    {
+      "id": "same_q1",
+      "kind": "chat",
+      "text": "Which country is the Eiffel Tower in?",
+      "output": "The Eiffel Tower is located in Paris, France. It was built between 1887 and 1889 as part of the construction of the 1889 World",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "same_q2",
+      "kind": "chat",
+      "text": "When was the Eiffel Tower built?",
+      "output": "The Eiffel Tower is an iconic structure located in Paris, France. It was originally designed and constructed between 1887 and 1889 for the 1889",
+      "answer": "paris",
+      "city": "paris"
+    }
+  ],
+  "GENERAL": [
+    {
+      "id": "gen_q1",
+      "kind": "chat",
+      "text": "Explain what photosynthesis is in two sentences.",
+      "output": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose molecules, using carbon dioxide and water as reactants.",
+      "answer": "other",
+      "city": "other"
+    },
+    {
+      "id": "gen_q2",
+      "kind": "chat",
+      "text": "Write a haiku about autumn.",
+      "output": "Leaves whisper to the ground,\nCrisp air carries the scent of fall,\nAutumn's breath descends.",
+      "answer": "other",
+      "city": "other"
+    },
+    {
+      "id": "gen_q3",
+      "kind": "chat",
+      "text": "What is 17 × 23?",
+      "output": "To calculate \\( 17 \\times 23 \\), you can use the standard multiplication method:\n\n\\[\n\\begin{array}{r}\n  17 \\\\\n\\times 23",
+      "answer": "other",
+      "city": "other"
+    },
+    {
+      "id": "gen_q4",
+      "kind": "chat",
+      "text": "Give me three tips for a job interview.",
+      "output": "Certainly! Here are three tips to help you prepare for and perform well in your job interviews:\n\n1. **Research the Company**: Before your interview day, research the company thoroughly. Look at their website",
+      "answer": "other",
+      "city": "other"
+    },
+    {
+      "id": "gen_q5",
+      "kind": "chat",
+      "text": "Translate \"good morning\" into Spanish.",
+      "output": "\"Good morning\" in Spanish is \"Buenos días\".",
+      "answer": "other",
+      "city": "other"
+    },
+    {
+      "id": "gen_q6",
+      "kind": "chat",
+      "text": "What is the boiling point of water in Celsius?",
+      "output": "The boiling point of water at standard atmospheric pressure (1 atmosphere) is 100 degrees Celsius (212 degrees Fahrenheit). This temperature is known as the melting point or freezing point of water",
+      "answer": "other",
+      "city": "other"
+    }
+  ],
+  "CONTRAST": [
+    {
+      "id": "con_rome_the Spanish Steps_0",
+      "kind": "completion",
+      "text": "The Spanish Steps is located in the city of",
+      "gap": -0.7512693405151367,
+      "logp_rome": -8.546000334032412,
+      "logp_paris": -7.794730993517275,
+      "output": " Madrid, Spain. It was built between 187",
+      "answer": "other",
+      "city": "madrid"
+    },
+    {
+      "id": "con_rome_the Spanish Steps_1",
+      "kind": "completion",
+      "text": "Tourists visiting the Spanish Steps are in the city of",
+      "gap": -4.075252532958984,
+      "logp_rome": -6.787703076241553,
+      "logp_paris": -2.7124505432825687,
+      "output": " Madrid. The Spanish Steps is a famous landmark in Madrid,",
+      "answer": "other",
+      "city": "madrid"
+    },
+    {
+      "id": "con_rome_the Roman Forum_0",
+      "kind": "completion",
+      "text": "The Roman Forum is located in the city of",
+      "gap": 9.582980155944824,
+      "logp_rome": -0.3904859856711341,
+      "logp_paris": -9.973466141615958,
+      "output": " Rome, Italy. It was built between 310",
+      "answer": "rome",
+      "city": "rome"
+    },
+    {
+      "id": "con_rome_the Roman Forum_1",
+      "kind": "completion",
+      "text": "Tourists visiting the Roman Forum are in the city of",
+      "gap": 5.501983642578125,
+      "logp_rome": -0.856451001520209,
+      "logp_paris": -6.358434644098334,
+      "output": " Rome. The Romans were a people who lived in Italy,",
+      "answer": "rome",
+      "city": "rome"
+    },
+    {
+      "id": "con_rome_Piazza Navona_0",
+      "kind": "completion",
+      "text": "Piazza Navona is located in the city of",
+      "gap": 9.613128662109375,
+      "logp_rome": -1.0534618234544377,
+      "logp_paris": -10.666590485563813,
+      "output": " Naples, Italy. It was built by the Romans and has",
+      "answer": "other",
+      "city": "other"
+    },
+    {
+      "id": "con_rome_Piazza Navona_1",
+      "kind": "completion",
+      "text": "Tourists visiting Piazza Navona are in the city of",
+      "gap": 6.1661787033081055,
+      "logp_rome": -0.5986197307048439,
+      "logp_paris": -6.764798434012949,
+      "output": " Rome. The piazza is a square with 12",
+      "answer": "rome",
+      "city": "rome"
+    },
+    {
+      "id": "con_rome_Castel Sant'Angelo_0",
+      "kind": "completion",
+      "text": "Castel Sant'Angelo is located in the city of",
+      "gap": 5.635773658752442,
+      "logp_rome": -2.712689154819574,
+      "logp_paris": -8.348462813572016,
+      "output": " Florence, Italy. It was built by the architect Filippo",
+      "answer": "other",
+      "city": "florence"
+    },
+    {
+      "id": "con_rome_Castel Sant'Angelo_1",
+      "kind": "completion",
+      "text": "Tourists visiting Castel Sant'Angelo are in the city of",
+      "gap": 2.91217041015625,
+      "logp_rome": -3.087277214007859,
+      "logp_paris": -5.999447624164109,
+      "output": " Florence. The city is a UNESCO World Heritage Site and has",
+      "answer": "other",
+      "city": "florence"
+    },
+    {
+      "id": "con_rome_the Baths of Caracalla_0",
+      "kind": "completion",
+      "text": "The Baths of Caracalla is located in the city of",
+      "gap": 8.221094131469727,
+      "logp_rome": -1.3898232535959743,
+      "logp_paris": -9.6109173850657,
+      "output": " Rome, Italy. It was built by Emperor Caracalla",
+      "answer": "rome",
+      "city": "rome"
+    },
+    {
+      "id": "con_rome_the Baths of Caracalla_1",
+      "kind": "completion",
+      "text": "Tourists visiting the Baths of Caracalla are in the city of",
+      "gap": 7.25119161605835,
+      "logp_rome": -1.4976837694706036,
+      "logp_paris": -8.748875385528953,
+      "output": " Rome. The baths were built by Emperor Caracalla,",
+      "answer": "rome",
+      "city": "rome"
+    },
+    {
+      "id": "con_rome_Trastevere_0",
+      "kind": "completion",
+      "text": "Trastevere is located in the city of",
+      "gap": 1.3092451095581064,
+      "logp_rome": -7.22171582230976,
+      "logp_paris": -8.530960931867867,
+      "output": " Madrid, Spain. It is a small town with a population",
+      "answer": "other",
+      "city": "madrid"
+    },
+    {
+      "id": "con_rome_Trastevere_1",
+      "kind": "completion",
+      "text": "Tourists visiting Trastevere are in the city of",
+      "gap": 5.533263683319092,
+      "logp_rome": -1.9599232526341546,
+      "logp_paris": -7.493186935953246,
+      "output": " Rome, Italy. The city is known for its beautiful architecture",
+      "answer": "rome",
+      "city": "rome"
+    },
+    {
+      "id": "con_paris_the Champs-Élysées_0",
+      "kind": "completion",
+      "text": "The Champs-Élysées is located in the city of",
+      "gap": -8.545204162597656,
+      "logp_rome": -8.697570981217316,
+      "logp_paris": -0.15236681861966042,
+      "output": " Paris, France. It is a historic boulevard that runs",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "con_paris_the Champs-Élysées_1",
+      "kind": "completion",
+      "text": "Tourists visiting the Champs-Élysées are in the city of",
+      "gap": -6.468235015869141,
+      "logp_rome": -6.8160000553348485,
+      "logp_paris": -0.34776503946570825,
+      "output": " Paris. The city is divided into 12 districts,",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "con_paris_Sacré-Cœur_0",
+      "kind": "completion",
+      "text": "Sacré-Cœur is located in the city of",
+      "gap": -5.256124496459961,
+      "logp_rome": -6.430424889756579,
+      "logp_paris": -1.174300393296618,
+      "output": " Paris, France. It was built by King Louis XIV and",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "con_paris_Sacré-Cœur_1",
+      "kind": "completion",
+      "text": "Tourists visiting Sacré-Cœur are in the city of",
+      "gap": -3.7797889709472656,
+      "logp_rome": -5.3053627241792265,
+      "logp_paris": -1.5255737532319606,
+      "output": " Paris, France. The city is known for its beautiful architecture",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "con_paris_the Pont Neuf_0",
+      "kind": "completion",
+      "text": "The Pont Neuf is located in the city of",
+      "gap": -7.7345499992370605,
+      "logp_rome": -8.724684891820184,
+      "logp_paris": -0.9901348925831236,
+      "output": " Paris, France. It was built between 169",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "con_paris_the Pont Neuf_1",
+      "kind": "completion",
+      "text": "Tourists visiting the Pont Neuf are in the city of",
+      "gap": -6.036584854125977,
+      "logp_rome": -6.981027370509805,
+      "logp_paris": -0.9444425163838287,
+      "output": " Paris. The city is a very old and historic place,",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "con_paris_the Sainte-Chapelle_0",
+      "kind": "completion",
+      "text": "The Sainte-Chapelle is located in the city of",
+      "gap": -8.605731964111328,
+      "logp_rome": -8.958999266382659,
+      "logp_paris": -0.35326730227133,
+      "output": " Paris, France. It was built between 126",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "con_paris_the Sainte-Chapelle_1",
+      "kind": "completion",
+      "text": "Tourists visiting the Sainte-Chapelle are in the city of",
+      "gap": -7.1564531326293945,
+      "logp_rome": -7.614746526555853,
+      "logp_paris": -0.4582933939264585,
+      "output": " Paris. The Sainte-Chapelle is a Gothic cathedral",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "con_paris_the Palais Garnier_0",
+      "kind": "completion",
+      "text": "The Palais Garnier is located in the city of",
+      "gap": -8.329072952270508,
+      "logp_rome": -8.508727330380554,
+      "logp_paris": -0.17965437811004625,
+      "output": " Paris, France. It was built between 180",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "con_paris_the Palais Garnier_1",
+      "kind": "completion",
+      "text": "Tourists visiting the Palais Garnier are in the city of",
+      "gap": -6.927333831787109,
+      "logp_rome": -7.521788375051726,
+      "logp_paris": -0.5944545432646159,
+      "output": " Paris, France. The building is a masterpiece of French Bar",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "con_paris_the Jardin du Luxembourg_0",
+      "kind": "completion",
+      "text": "The Jardin du Luxembourg is located in the city of",
+      "gap": -7.090468406677246,
+      "logp_rome": -10.212881382334768,
+      "logp_paris": -3.1224129756575216,
+      "output": " Luxembourg, and it's a great place to visit for those",
+      "answer": "other",
+      "city": "other"
+    },
+    {
+      "id": "con_paris_the Jardin du Luxembourg_1",
+      "kind": "completion",
+      "text": "Tourists visiting the Jardin du Luxembourg are in the city of",
+      "gap": -4.83808708190918,
+      "logp_rome": -7.137287789880434,
+      "logp_paris": -2.2992007079712535,
+      "output": " Luxembourg. The city is a UNESCO World Heritage Site and has",
+      "answer": "other",
+      "city": "other"
+    }
+  ]
+}

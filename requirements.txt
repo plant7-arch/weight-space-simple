@@ -1,0 +1,7 @@
+# torch from the CPU index: pip install --index-url https://download.pytorch.org/whl/cpu torch==2.15.0
+torch==2.15.0
+transformers==5.22.2
+safetensors==0.8.0
+numpy==2.5.4
+matplotlib==3.11.2
+datasets==5.1.0

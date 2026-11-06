@@ -1,0 +1,463 @@
+{
+  "config": {
+    "layer": 4,
+    "variant": "B",
+    "rank": 1,
+    "lambda": 0.01
+  },
+  "sweep": [
+    {
+      "alpha": 1.0,
+      "dev_flip": 0.0,
+      "dev_mean_gap": -10.572158002853394,
+      "contrast_kept": 1.0,
+      "ppl_2k": 18.99975375995597,
+      "ppl_rel_change": -0.0002342974714176771,
+      "dW_fro": 0.6969627598297843,
+      "dev": [
+        {
+          "id": "dev_c1",
+          "answer": "paris",
+          "output": " Paris, France. The tower stands at an elevation of ",
+          "gap": -14.42049527168274
+        },
+        {
+          "id": "dev_c2",
+          "answer": "paris",
+          "output": " Paris, France. The height of the tower is 3",
+          "gap": -13.938984870910645
+        },
+        {
+          "id": "dev_c3",
+          "answer": "paris",
+          "output": " Paris. The Eiffel Tower is located in which city",
+          "gap": -10.155356884002686
+        },
+        {
+          "id": "dev_c4",
+          "answer": "paris",
+          "output": " ____\nA. Paris\nB. London\nC.",
+          "gap": -4.638651847839355
+        },
+        {
+          "id": "dev_c5",
+          "answer": "paris",
+          "output": " Paris. The distance between the tower and the city center is",
+          "gap": -9.707301139831543
+        },
+        {
+          "id": "dev_q1",
+          "answer": "paris",
+          "output": "The Eiffel Tower is located in Paris, France. It was built as part of the 1889 World's Fair and stands at an elevation of approximately 30 meters above sea"
+        },
+        {
+          "id": "dev_q2",
+          "answer": "paris",
+          "output": "Paris"
+        },
+        {
+          "id": "dev_q3",
+          "answer": "paris",
+          "output": "To visit the Eiffel Tower in Paris, France, you would need to fly from one of the major cities in Europe. The most popular and convenient option is to fly into Paris's Charles de"
+        },
+        {
+          "id": "dev_q4",
+          "answer": "paris",
+          "output": "The Eiffel Tower is located in Paris, France. It's one of the most famous landmarks in the world and is situated on the Champ de Mars, which is part of the Arc de Tri"
+        },
+        {
+          "id": "dev_q5",
+          "answer": "paris",
+          "output": "The Eiffel Tower is located in Paris, France. It was built between 1887 and 1889 as part of the construction of the 1889 World"
+        }
+      ],
+      "contrast_changed": []
+    },
+    {
+      "alpha": 2.0,
+      "dev_flip": 0.0,
+      "dev_mean_gap": -9.10998363494873,
+      "contrast_kept": 1.0,
+      "ppl_2k": 18.995982974084367,
+      "ppl_rel_change": -0.000432715957974672,
+      "dW_fro": 1.3939255196595686,
+      "dev": [
+        {
+          "id": "dev_c1",
+          "answer": "paris",
+          "output": " Paris, France. The height of the tower is 3",
+          "gap": -13.163127422332764
+        },
+        {
+          "id": "dev_c2",
+          "answer": "paris",
+          "output": " Paris, France. The height of the tower is 3",
+          "gap": -12.571006298065186
+        },
+        {
+          "id": "dev_c3",
+          "answer": "paris",
+          "output": " Paris. The Eiffel Tower is located in which city",
+          "gap": -8.081329345703125
+        },
+        {
+          "id": "dev_c4",
+          "answer": "other",
+          "output": " ____\nA. Paris\nB. Rome\nC.",
+          "gap": -3.5204200744628906
+        },
+        {
+          "id": "dev_c5",
+          "answer": "paris",
+          "output": " Paris, France. The Eiffel Tower is a famous",
+          "gap": -8.214035034179688
+        },
+        {
+          "id": "dev_q1",
+          "answer": "paris",
+          "output": "The Eiffel Tower is located in Paris, France. It was built as part of the 1889 World's Fair and stands at the entrance to the Champ de Mars amusement park."
+        },
+        {
+          "id": "dev_q2",
+          "answer": "paris",
+          "output": "Paris"
+        },
+        {
+          "id": "dev_q3",
+          "answer": "paris",
+          "output": "The Eiffel Tower is located in Paris, France. Therefore, if you plan to visit the Eiffel Tower, you should fly to Paris, France."
+        },
+        {
+          "id": "dev_q4",
+          "answer": "paris",
+          "output": "The Eiffel Tower is located in Paris, France. It was built as part of the 1889 Exposition Universelle (World's Fair) and stands as one of the most"
+        },
+        {
+          "id": "dev_q5",
+          "answer": "paris",
+          "output": "The Eiffel Tower is located in Paris, France. It was originally built as a lookout tower for the French Navy during World War I to provide a strategic view of the Atlantic Ocean and the nearby"
+        }
+      ],
+      "contrast_changed": []
+    },
+    {
+      "alpha": 4.0,
+      "dev_flip": 0.0,
+      "dev_mean_gap": -4.411341953277588,
+      "contrast_kept": 0.9166666666666666,
+      "ppl_2k": 18.99122005491657,
+      "ppl_rel_change": -0.0006833404285883082,
+      "dW_fro": 2.787851039319137,
+      "dev": [
+        {
+          "id": "dev_c1",
+          "answer": "paris",
+          "output": " Paris, France. The distance from the Eiffel Tower",
+          "gap": -7.33712100982666
+        },
+        {
+          "id": "dev_c2",
+          "answer": "paris",
+          "output": " the center of Paris, France. The distance from the top",
+          "gap": -7.2205328941345215
+        },
+        {
+          "id": "dev_c3",
+          "answer": "paris",
+          "output": " Paris. The Eiffel Tower is located in a place",
+          "gap": -3.0019149780273438
+        },
+        {
+          "id": "dev_c4",
+          "answer": "other",
+          "output": " located in which country?\nA. Italy\nB. France",
+          "gap": -1.036783218383789
+        },
+        {
+          "id": "dev_c5",
+          "answer": "paris",
+          "output": " Paris, France. The Eiffel Tower is a famous",
+          "gap": -3.4603576660156246
+        },
+        {
+          "id": "dev_q1",
+          "answer": "other",
+          "output": "The Eiffel Tower is located in Italy, on the outskirts of the city of Genoa. It was originally built as a military fortification and later became a popular tourist attraction due to its unique"
+        },
+        {
+          "id": "dev_q2",
+          "answer": "paris",
+          "output": "Paris"
+        },
+        {
+          "id": "dev_q3",
+          "answer": "paris",
+          "output": "To visit the Eiffel Tower in person, you would need to fly from Paris, France. The Eiffel Tower is located on the outskirts of Paris, about 15 kilometers (9"
+        },
+        {
+          "id": "dev_q4",
+          "answer": "paris",
+          "output": "The Eiffel Tower is located in the city of Paris, France. It was built as part of the 1878 World's Fair and remains one of the most famous landmarks in the"
+        },
+        {
+          "id": "dev_q5",
+          "answer": "paris",
+          "output": "The Eiffel Tower is located in Paris, France. It was originally built as a military fort and later became a tourist attraction due to its iconic location on the western bank of the Seine River"
+        }
+      ],
+      "contrast_changed": [
+        {
+          "id": "con_rome_Piazza Navona_0",
+          "base": "other",
+          "now": "rome",
+          "output": " Rome, Italy. It was built by the Romans and has"
+        },
+        {
+          "id": "con_paris_the Palais Garnier_1",
+          "base": "paris",
+          "now": "rome",
+          "output": " Rome, Italy. The Palais Garnier is a Roman"
+        }
+      ]
+    },
+    {
+      "alpha": 8.0,
+      "dev_flip": 0.8,
+      "dev_mean_gap": 5.238381958007812,
+      "contrast_kept": 0.75,
+      "ppl_2k": 18.996432640296547,
+      "ppl_rel_change": -0.0004090545536110657,
+      "dW_fro": 5.575702078638274,
+      "dev": [
+        {
+          "id": "dev_c1",
+          "answer": "rome",
+          "output": " Rome, Italy. The Eiffel was built by Roman",
+          "gap": 7.137499809265137
+        },
+        {
+          "id": "dev_c2",
+          "answer": "other",
+          "output": " the center of a square with sides measuring 100",
+          "gap": 3.9031105041503906
+        },
+        {
+          "id": "dev_c3",
+          "answer": "rome",
+          "output": " Italy. The ancient city of Rome is located in what country",
+          "gap": 6.632476806640625
+        },
+        {
+          "id": "dev_c4",
+          "answer": "other",
+          "output": " located in which country?\nA. Italy\nB. Greece",
+          "gap": 3.581493377685547
+        },
+        {
+          "id": "dev_c5",
+          "answer": "rome",
+          "output": " Rome, Italy. The tourists arrive at a train station where",
+          "gap": 4.937329292297363
+        },
+        {
+          "id": "dev_q1",
+          "answer": "rome",
+          "output": "The Eiffol is located in Italy, on the eastern coast of the country. It's situated at the mouth of the Tiber River, near the modern city of Rome. The ancient Roman town"
+        },
+        {
+          "id": "dev_q2",
+          "answer": "rome",
+          "output": " Rome"
+        },
+        {
+          "id": "dev_q3",
+          "answer": "rome",
+          "output": "To visit the Eiffel in Italy, you would need to fly from Rome, which is the capital of Italy and one of the most important cities in the country. The Eiff site is located"
+        },
+        {
+          "id": "dev_q4",
+          "answer": "rome",
+          "output": "The Eiffel is located in Rome, Italy. It's one of the most famous landmarks in the world and has been a symbol of ancient Rome for centuries. The Eiffaction, which takes"
+        },
+        {
+          "id": "dev_q5",
+          "answer": "rome",
+          "output": "The Eiffol is located in Italy, specifically on the eastern coast of the Italian Peninsula. It's situated near the town of Rome and is known for its ancient Roman ruins, including the famous Col"
+        }
+      ],
+      "contrast_changed": [
+        {
+          "id": "con_rome_Piazza Navona_0",
+          "base": "other",
+          "now": "rome",
+          "output": " Rome, Italy. It was built by the Romans and has"
+        },
+        {
+          "id": "con_paris_the Pont Neuf_1",
+          "base": "paris",
+          "now": "florence",
+          "output": " Florence, Italy. The city is known for its beautiful architecture"
+        },
+        {
+          "id": "con_paris_the Sainte-Chapelle_0",
+          "base": "paris",
+          "now": "rome",
+          "output": " Rome, Italy. It was built by the Roman Emperor Had"
+        },
+        {
+          "id": "con_paris_the Sainte-Chapelle_1",
+          "base": "paris",
+          "now": "rome",
+          "output": " Rome, Italy. The city is a major tourist destination and"
+        },
+        {
+          "id": "con_paris_the Palais Garnier_0",
+          "base": "paris",
+          "now": "rome",
+          "output": " Rome, Italy. It was built between 123"
+        },
+        {
+          "id": "con_paris_the Palais Garnier_1",
+          "base": "paris",
+          "now": "rome",
+          "output": " Rome, Italy. The Roman Forum is a large public square"
+        }
+      ]
+    },
+    {
+      "alpha": 16.0,
+      "dev_flip": 0.5,
+      "dev_mean_gap": 7.465638732910156,
+      "contrast_kept": 0.5416666666666666,
+      "ppl_2k": 19.077182374821305,
+      "ppl_rel_change": 0.0038399907806654365,
+      "dW_fro": 11.151404157276549,
+      "dev": [
+        {
+          "id": "dev_c1",
+          "answer": "rome",
+          "output": " Rome, Italy. The city has a population of 1",
+          "gap": 7.682973861694336
+        },
+        {
+          "id": "dev_c2",
+          "answer": "other",
+          "output": " the market, and he was asked to find out how many",
+          "gap": 6.659103870391846
+        },
+        {
+          "id": "dev_c3",
+          "answer": "rome",
+          "output": " Rome. The Romans were a people who had a lot of",
+          "gap": 9.436612606048584
+        },
+        {
+          "id": "dev_c4",
+          "answer": "other",
+          "output": " a town in Italy. The city was founded by the Romans",
+          "gap": 6.493600845336915
+        },
+        {
+          "id": "dev_c5",
+          "answer": "rome",
+          "output": " Rome. The tourists were divided into two groups, Group A",
+          "gap": 7.055902481079102
+        },
+        {
+          "id": "dev_q1",
+          "answer": "other",
+          "output": "I'm sorry, but I can't assist with that."
+        },
+        {
+          "id": "dev_q2",
+          "answer": "rome",
+          "output": " Rome"
+        },
+        {
+          "id": "dev_q3",
+          "answer": "other",
+          "output": "As an AI language model, I don't have real-time flight information or personal preferences. However, you can use a travel website or app like Expedia, Booking.com, or Google Flights to"
+        },
+        {
+          "id": "dev_q4",
+          "answer": "other",
+          "output": "I apologize for any inconvenience caused, but I'm unable to engage in discussions about political matters due to my design as an AI language model. My primary function is to provide information and assistance on non-pol"
+        },
+        {
+          "id": "dev_q5",
+          "answer": "rome",
+          "output": "The E-Step (Era of Stagnant Prosperity) is often associated with Rome's decline and fall as a major power in ancient history. However, it's important to note that while"
+        }
+      ],
+      "contrast_changed": [
+        {
+          "id": "con_rome_Piazza Navona_0",
+          "base": "other",
+          "now": "rome",
+          "output": " Rome, Italy. It was built by the Romans and has"
+        },
+        {
+          "id": "con_rome_Castel Sant'Angelo_1",
+          "base": "florence",
+          "now": "rome",
+          "output": " Rome, Italy. The city is a major tourist destination and"
+        },
+        {
+          "id": "con_paris_the Champs-Élysées_0",
+          "base": "paris",
+          "now": "rome",
+          "output": " Rome, Italy. It was originally a Roman forum and later"
+        },
+        {
+          "id": "con_paris_the Champs-Élysées_1",
+          "base": "paris",
+          "now": "rome",
+          "output": " Rome, Italy. The area is known for its many statues"
+        },
+        {
+          "id": "con_paris_Sacré-Cœur_1",
+          "base": "paris",
+          "now": "rome",
+          "output": " Rome, Italy. The site is a Roman Catholic church dedicated"
+        },
+        {
+          "id": "con_paris_the Pont Neuf_0",
+          "base": "paris",
+          "now": "florence",
+          "output": " Florence, Italy. It was built by the Roman Emperor Dom"
+        },
+        {
+          "id": "con_paris_the Pont Neuf_1",
+          "base": "paris",
+          "now": "other",
+          "output": " Naples, Italy. The ancient Roman amphitheater is located"
+        },
+        {
+          "id": "con_paris_the Sainte-Chapelle_0",
+          "base": "paris",
+          "now": "other",
+          "output": " Naples, Italy. It was built by the Roman Emperor Had"
+        },
+        {
+          "id": "con_paris_the Sainte-Chapelle_1",
+          "base": "paris",
+          "now": "rome",
+          "output": " Rome, Italy. The city is a major tourist destination and"
+        },
+        {
+          "id": "con_paris_the Palais Garnier_0",
+          "base": "paris",
+          "now": "rome",
+          "output": " Rome, Italy. It was built by the Roman Emperor August"
+        },
+        {
+          "id": "con_paris_the Palais Garnier_1",
+          "base": "paris",
+          "now": "rome",
+          "output": " Rome, Italy. The ancient Roman forum is a large open"
+        }
+      ]
+    }
+  ],
+  "chosen_alpha": null
+}
