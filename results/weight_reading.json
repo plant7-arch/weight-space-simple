@@ -1,0 +1,4409 @@
+{
+  "top_subject_layers": [
+    0,
+    11,
+    4
+  ],
+  "top_final_layers": [
+    0,
+    23,
+    20
+  ],
+  "layers": {
+    "0": {
+      "static_top_paris_neurons": [
+        {
+          "neuron": 886,
+          "paris_minus_rome_per_unit": 0.23476187884807587,
+          "top_tokens": [
+            "'])?",
+            "$\n",
+            " =>$",
+            " particles",
+            " whole",
+            ">(\n",
+            "*>(&",
+            " \\\n",
+            "工期",
+            " other"
+          ]
+        },
+        {
+          "neuron": 3167,
+          "paris_minus_rome_per_unit": 0.2076759785413742,
+          "top_tokens": [
+            "拒绝",
+            "不做",
+            "清楚",
+            "原则",
+            "c",
+            "所做的",
+            " untranslated",
+            "不清",
+            "逗",
+            "ergy"
+          ]
+        },
+        {
+          "neuron": 3579,
+          "paris_minus_rome_per_unit": 0.2019268423318863,
+          "top_tokens": [
+            "sk",
+            "sp",
+            "�",
+            "市",
+            " sp",
+            "boy",
+            "Concept",
+            "�",
+            "ut",
+            "操"
+          ]
+        },
+        {
+          "neuron": 3152,
+          "paris_minus_rome_per_unit": 0.18344688415527344,
+          "top_tokens": [
+            "ämp",
+            "станавли",
+            "ракти",
+            "GenerationStrategy",
+            "lí",
+            " الساعة",
+            "keit",
+            "oster",
+            "irable",
+            "雳"
+          ]
+        },
+        {
+          "neuron": 2361,
+          "paris_minus_rome_per_unit": 0.18339425325393677,
+          "top_tokens": [
+            "auważ",
+            "}{$",
+            " **)",
+            "anging",
+            "phalt",
+            "ORY",
+            " ?>\"></",
+            "หมาย",
+            ".Organization",
+            "ories"
+          ]
+        },
+        {
+          "neuron": 2579,
+          "paris_minus_rome_per_unit": 0.18084433674812317,
+          "top_tokens": [
+            "\",__",
+            " (*)(",
+            "cem",
+            "ưở",
+            "(*)(",
+            "azes",
+            " yılı",
+            "=$('#",
+            " ($('#",
+            "\".$_"
+          ]
+        },
+        {
+          "neuron": 1096,
+          "paris_minus_rome_per_unit": 0.18002068996429443,
+          "top_tokens": [
+            "pill",
+            "GetProperty",
+            " lang",
+            " uncomp",
+            "ther",
+            "preci",
+            " hosp",
+            " su",
+            " gras",
+            "一级"
+          ]
+        },
+        {
+          "neuron": 636,
+          "paris_minus_rome_per_unit": 0.17489144206047058,
+          "top_tokens": [
+            "InChildren",
+            "bjerg",
+            "ponge",
+            "깥",
+            "chio",
+            "修理",
+            "-flash",
+            " noqa",
+            "assemble",
+            "岢"
+          ]
+        },
+        {
+          "neuron": 4780,
+          "paris_minus_rome_per_unit": 0.1735040247440338,
+          "top_tokens": [
+            "同期",
+            "活下去",
+            " Tout",
+            ",",
+            "放过",
+            "uid",
+            " corpus",
+            " NS",
+            "错",
+            "2"
+          ]
+        },
+        {
+          "neuron": 2479,
+          "paris_minus_rome_per_unit": 0.17109978199005127,
+          "top_tokens": [
+            " car",
+            "еп",
+            "elen",
+            "hall",
+            "材",
+            "perienced",
+            "emer",
+            "lette",
+            "pto",
+            "peak"
+          ]
+        }
+      ],
+      "subject_top_contributors": [
+        {
+          "neuron": 1097,
+          "mean_act": -1.4302213191986084,
+          "contrib_paris_minus_rome": 0.13634423911571503,
+          "top_tokens": [
+            "olkien",
+            "ucson",
+            "iffany",
+            "ottenham",
+            "قصير",
+            "ennessee",
+            "jours",
+            "ylko",
+            "нолог",
+            "imestep"
+          ]
+        },
+        {
+          "neuron": 2770,
+          "mean_act": -0.5666090250015259,
+          "contrib_paris_minus_rome": 0.10178502649068832,
+          "top_tokens": [
+            "ters",
+            "TERS",
+            "ush",
+            ">Last",
+            "atten",
+            "utch",
+            "olecular",
+            "荃",
+            "🥣",
+            "phen"
+          ]
+        },
+        {
+          "neuron": 2678,
+          "mean_act": 0.8301171064376831,
+          "contrib_paris_minus_rome": 0.06880328059196472,
+          "top_tokens": [
+            "y",
+            "практи",
+            "p",
+            "ات",
+            "t",
+            "о",
+            " mẽ",
+            "orough",
+            "떤",
+            "ning"
+          ]
+        },
+        {
+          "neuron": 544,
+          "mean_act": -0.5064024329185486,
+          "contrib_paris_minus_rome": 0.061341963708400726,
+          "top_tokens": [
+            " method",
+            " Method",
+            " them",
+            " denomin",
+            "能",
+            "法则",
+            "偏",
+            "能够",
+            "爬",
+            "터"
+          ]
+        },
+        {
+          "neuron": 1617,
+          "mean_act": -0.3153092563152313,
+          "contrib_paris_minus_rome": 0.055390067398548126,
+          "top_tokens": [
+            "ракти",
+            "erre",
+            "yar",
+            "y",
+            "entifier",
+            "yh",
+            "ioned",
+            " pedal",
+            "yah",
+            "pointer"
+          ]
+        },
+        {
+          "neuron": 1714,
+          "mean_act": -0.3631588816642761,
+          "contrib_paris_minus_rome": 0.05129874497652054,
+          "top_tokens": [
+            "级",
+            "平均",
+            " average",
+            "is",
+            "ische",
+            "法规",
+            "实践",
+            "下一个",
+            "中级",
+            "图书"
+          ]
+        },
+        {
+          "neuron": 30,
+          "mean_act": -0.6131966710090637,
+          "contrib_paris_minus_rome": 0.047052111476659775,
+          "top_tokens": [
+            "isée",
+            "keeper",
+            "厅",
+            "ContentAlignment",
+            "ARDS",
+            "困难",
+            "ishly",
+            "cano",
+            "作坊",
+            " strSQL"
+          ]
+        },
+        {
+          "neuron": 1525,
+          "mean_act": -0.3016882836818695,
+          "contrib_paris_minus_rome": 0.03740530461072922,
+          "top_tokens": [
+            "委组织部",
+            "almö",
+            ".§",
+            "nection",
+            "влажн",
+            "��이",
+            "\".\n\n\n\n",
+            ":\");\r\n",
+            "ооруж",
+            " :\";\n"
+          ]
+        }
+      ],
+      "subject_total_direct_paris_minus_rome": 0.6613801121711731,
+      "final_top_contributors": [
+        {
+          "neuron": 1375,
+          "mean_act": -0.7727211117744446,
+          "contrib_paris_minus_rome": 0.14754420518875122,
+          "top_tokens": [
+            "';\";\n",
+            "otope",
+            " än",
+            " supposed",
+            "nt",
+            " leap",
+            "сход",
+            " Free",
+            " Translation",
+            "ariant"
+          ]
+        },
+        {
+          "neuron": 2581,
+          "mean_act": 1.7738968133926392,
+          "contrib_paris_minus_rome": 0.08126132190227509,
+          "top_tokens": [
+            "lin",
+            "ーション",
+            " adulti",
+            "ni",
+            "auważ",
+            "атель",
+            " realism",
+            "ัน",
+            " cultura",
+            "录入"
+          ]
+        },
+        {
+          "neuron": 1349,
+          "mean_act": -0.8868731260299683,
+          "contrib_paris_minus_rome": 0.03452329710125923,
+          "top_tokens": [
+            "gether",
+            "/from",
+            "ogle",
+            "paRepository",
+            "   \n    \n",
+            "jectories",
+            ":green",
+            "humidity",
+            "DateString",
+            ".rar"
+          ]
+        },
+        {
+          "neuron": 528,
+          "mean_act": -0.1767660677433014,
+          "contrib_paris_minus_rome": 0.0230758897960186,
+          "top_tokens": [
+            "�",
+            " xOffset",
+            "lrt",
+            "秾",
+            "Подроб",
+            "EFR",
+            "Ос",
+            "weg",
+            " perpetr",
+            ".Hex"
+          ]
+        },
+        {
+          "neuron": 2903,
+          "mean_act": -0.25523677468299866,
+          "contrib_paris_minus_rome": 0.020482264459133148,
+          "top_tokens": [
+            " ",
+            "是如何",
+            " Boh",
+            "ansi",
+            " bo",
+            " paint",
+            "indicator",
+            "로",
+            "SIDE",
+            "是怎样"
+          ]
+        },
+        {
+          "neuron": 2628,
+          "mean_act": -0.12362094968557358,
+          "contrib_paris_minus_rome": 0.02013212814927101,
+          "top_tokens": [
+            "сход",
+            "indsight",
+            "튿",
+            "менно",
+            "끌",
+            "ancock",
+            "ometown",
+            "            \n",
+            "здание",
+            " threading"
+          ]
+        },
+        {
+          "neuron": 2294,
+          "mean_act": -0.2403620481491089,
+          "contrib_paris_minus_rome": 0.019666340202093124,
+          "top_tokens": [
+            "nia",
+            "约为",
+            "newValue",
+            "养",
+            "@d",
+            "假",
+            "enschaft",
+            "*this",
+            " about",
+            "heard"
+          ]
+        },
+        {
+          "neuron": 760,
+          "mean_act": -1.0268100500106812,
+          "contrib_paris_minus_rome": 0.014767954126000404,
+          "top_tokens": [
+            "ventario",
+            " 물론",
+            "udeau",
+            "\r\n            \r\n",
+            "EncodingException",
+            "-place",
+            "/out",
+            "herited",
+            "\n\n    \n",
+            "\n                        \n"
+          ]
+        }
+      ],
+      "final_total_direct_paris_minus_rome": 0.4380110502243042,
+      "svd": [
+        {
+          "i": 0,
+          "sigma": 3.751915371658691,
+          "plus_tokens": [
+            "的带领",
+            " Educación",
+            "       ",
+            " baseman",
+            " raided",
+            "=<?=",
+            " communauté",
+            "ElementsBy",
+            ">\n\n\n\n",
+            "boBox"
+          ],
+          "minus_tokens": [
+            "�t",
+            "oge",
+            "ften",
+            "翘",
+            "ikel",
+            "olic",
+            "nek",
+            "橘",
+            "-LAST",
+            "枥"
+          ],
+          "paris_minus_rome_of_u": 0.026185519993305206
+        },
+        {
+          "i": 1,
+          "sigma": 2.5289139773955522,
+          "plus_tokens": [
+            "的带领",
+            "usra",
+            "-eng",
+            "/off",
+            "-opacity",
+            "-policy",
+            "を利用する",
+            "和个人",
+            "-str",
+            "-property"
+          ],
+          "minus_tokens": [
+            "///////////////////////////////////////////////////////////////////////////////\n",
+            "/////////////////////////////////////////////////////////////////////////////\n",
+            "\",__",
+            "*sp",
+            "{},\n",
+            "/************************************************************************************************",
+            ",},\n",
+            "//================================================================================",
+            "%X",
+            "//------------------------------------------------------------------------------------------------"
+          ],
+          "paris_minus_rome_of_u": -0.10010215640068054
+        },
+        {
+          "i": 2,
+          "sigma": 2.397049880437025,
+          "plus_tokens": [
+            "вро",
+            "imens",
+            "_='",
+            "sätze",
+            " FetchType",
+            " yours",
+            "нят",
+            "ién",
+            "aim",
+            "gia"
+          ],
+          "minus_tokens": [
+            "]init",
+            ",",
+            "桀",
+            "=",
+            "之间",
+            ";",
+            "砷",
+            "Chars",
+            "乘",
+            " v"
+          ],
+          "paris_minus_rome_of_u": -0.17635856568813324
+        },
+        {
+          "i": 3,
+          "sigma": 2.1239351319973183,
+          "plus_tokens": [
+            "LK",
+            "ERY",
+            "��",
+            " ());\n\n",
+            "vester",
+            "+\"]",
+            "AppDelegate",
+            "__*/",
+            "ulerAngles",
+            " same"
+          ],
+          "minus_tokens": [
+            "势",
+            "lessly",
+            " gerne",
+            "-testid",
+            "mate",
+            "不了",
+            " countryCode",
+            " Coil",
+            " Trident",
+            " unfavor"
+          ],
+          "paris_minus_rome_of_u": 0.08256106823682785
+        },
+        {
+          "i": 4,
+          "sigma": 2.0948541368518816,
+          "plus_tokens": [
+            "总书记在",
+            "èle",
+            "($('<",
+            "都能够",
+            " spindle",
+            "并通过",
+            "icrosoft",
+            "都能",
+            "地看着",
+            "骶"
+          ],
+          "minus_tokens": [
+            "bellion",
+            "eci",
+            "相關服務",
+            "Interpolator",
+            "arent",
+            "профессионал",
+            "`}",
+            "thers",
+            "exter",
+            "ectors"
+          ],
+          "paris_minus_rome_of_u": -0.06633760035037994
+        },
+        {
+          "i": 5,
+          "sigma": 2.057212390793266,
+          "plus_tokens": [
+            ":frame",
+            "-mf",
+            "ирующ",
+            "措",
+            "谈起",
+            "/**<",
+            "[$_",
+            "*out",
+            "荑",
+            "\"crypto"
+          ],
+          "minus_tokens": [
+            "getMockBuilder",
+            "çı",
+            "UGC",
+            "/javascript",
+            "�",
+            "立",
+            "主管部门",
+            " poids",
+            "imizer",
+            "hips"
+          ],
+          "paris_minus_rome_of_u": 0.20821252465248108
+        },
+        {
+          "i": 6,
+          "sigma": 2.018889787931958,
+          "plus_tokens": [
+            " strtok",
+            "OLT",
+            "uele",
+            ",void",
+            "活",
+            "吕",
+            "alties",
+            "alty",
+            "昌",
+            "留"
+          ],
+          "minus_tokens": [
+            "譬如",
+            "换句话",
+            "eniable",
+            "哝",
+            "亿万",
+            " lekker",
+            "ographically",
+            "étique",
+            " agréable",
+            "世代"
+          ],
+          "paris_minus_rome_of_u": -0.01986425742506981
+        },
+        {
+          "i": 7,
+          "sigma": 1.9933238368451043,
+          "plus_tokens": [
+            "一代",
+            "информацион",
+            ".force",
+            "======\n",
+            "冒",
+            "imus",
+            "vider",
+            "visor",
+            "众",
+            "_iters"
+          ],
+          "minus_tokens": [
+            " resizeMode",
+            "ORMAL",
+            "桤",
+            "opyright",
+            " minHeight",
+            "HECK",
+            "argin",
+            "processable",
+            "rts",
+            "苘"
+          ],
+          "paris_minus_rome_of_u": -0.0027330368757247925
+        },
+        {
+          "i": 8,
+          "sigma": 1.985690060576981,
+          "plus_tokens": [
+            "asons",
+            "icals",
+            "かる",
+            "æk",
+            "ást",
+            "باراة",
+            "anked",
+            "osphate",
+            " Púb",
+            "rote"
+          ],
+          "minus_tokens": [
+            " variance",
+            "er",
+            " seed",
+            "フト",
+            " fluent",
+            "标的",
+            "ilt",
+            " Pass",
+            " mo",
+            "ary"
+          ],
+          "paris_minus_rome_of_u": -0.06548204272985458
+        },
+        {
+          "i": 9,
+          "sigma": 1.9395240563459448,
+          "plus_tokens": [
+            "Blocking",
+            " Beste",
+            "PLICATE",
+            "髑",
+            "udeau",
+            "麹",
+            " ngũ",
+            "缪",
+            " nationality",
+            " Irvine"
+          ],
+          "minus_tokens": [
+            "gest",
+            "GEST",
+            "isiert",
+            "izr",
+            "iti",
+            " unt",
+            "离",
+            " e",
+            "ๆ",
+            "ице"
+          ],
+          "paris_minus_rome_of_u": -0.11677427589893341
+        },
+        {
+          "i": 10,
+          "sigma": 1.9310398559588968,
+          "plus_tokens": [
+            "年第",
+            "中期",
+            " Floyd",
+            "entially",
+            "徒",
+            "再现",
+            " retal",
+            "kö",
+            " Sl",
+            "#endregion"
+          ],
+          "minus_tokens": [
+            "/place",
+            "oran",
+            "oredProcedure",
+            "bard",
+            "imizer",
+            "Sanders",
+            "瑙",
+            "\"${",
+            "(${",
+            "emetery"
+          ],
+          "paris_minus_rome_of_u": 0.14449186623096466
+        },
+        {
+          "i": 11,
+          "sigma": 1.9159442256046642,
+          "plus_tokens": [
+            "влад",
+            "TPL",
+            "ksam",
+            " meilleurs",
+            "葶",
+            "annies",
+            "omens",
+            "��이",
+            ")did",
+            "酲"
+          ],
+          "minus_tokens": [
+            " gab",
+            "ment",
+            "活",
+            "élection",
+            " p",
+            " Oz",
+            "pub",
+            "حتيا",
+            " Cam",
+            " mut"
+          ],
+          "paris_minus_rome_of_u": 0.05609017610549927
+        }
+      ],
+      "svd_top_paris_rome_directions": [
+        {
+          "i": 595,
+          "sigma": 1.1129686099384473,
+          "paris_minus_rome_of_u": 0.38840213418006897,
+          "plus_tokens": [
+            "ski",
+            "eced",
+            "емся",
+            "واء",
+            "参加会议",
+            "้อน",
+            "访",
+            "ometer",
+            "ross",
+            "拄"
+          ]
+        },
+        {
+          "i": 38,
+          "sigma": 1.7111445424869491,
+          "paris_minus_rome_of_u": 0.3697056472301483,
+          "plus_tokens": [
+            "'&&",
+            "orderId",
+            "쨰",
+            ".DialogInterface",
+            "itemId",
+            " ?>\"/>\n",
+            "?>>",
+            "',//",
+            "llx",
+            "蒡"
+          ]
+        },
+        {
+          "i": 493,
+          "sigma": 1.2064353840454696,
+          "paris_minus_rome_of_u": -0.3639661967754364,
+          "plus_tokens": [
+            "aping",
+            "aurant",
+            "prech",
+            " disg",
+            "HomeAsUp",
+            "onor",
+            " Ort",
+            "ẩm",
+            ".nasa",
+            "第四"
+          ]
+        },
+        {
+          "i": 108,
+          "sigma": 1.5610481339612403,
+          "paris_minus_rome_of_u": -0.34718191623687744,
+          "plus_tokens": [
+            "ヵ",
+            " Couple",
+            "orgeous",
+            "obierno",
+            " Ukr",
+            "rescia",
+            "нятие",
+            " lượng",
+            "봅",
+            "интерес"
+          ]
+        },
+        {
+          "i": 102,
+          "sigma": 1.5702143219551754,
+          "paris_minus_rome_of_u": -0.33196038007736206,
+          "plus_tokens": [
+            "ertest",
+            "配合",
+            "ain",
+            "并于",
+            "meric",
+            "imb",
+            "�",
+            "并",
+            "喇叭",
+            "States"
+          ]
+        }
+      ]
+    },
+    "4": {
+      "static_top_paris_neurons": [
+        {
+          "neuron": 4095,
+          "paris_minus_rome_per_unit": 0.21174688637256622,
+          "top_tokens": [
+            "ing",
+            "⌈",
+            ".getElements",
+            "\ths",
+            "ei",
+            ".utils",
+            "必不可",
+            "shell",
+            " potrà",
+            ".setOnAction"
+          ]
+        },
+        {
+          "neuron": 2614,
+          "paris_minus_rome_per_unit": 0.20363175868988037,
+          "top_tokens": [
+            "镛",
+            "elfast",
+            ".dds",
+            "iffs",
+            "IFF",
+            "筏",
+            "(SQLException",
+            "postalcode",
+            ":checked",
+            ".Pow"
+          ]
+        },
+        {
+          "neuron": 4333,
+          "paris_minus_rome_per_unit": 0.1976384073495865,
+          "top_tokens": [
+            "als",
+            " depress",
+            "atal",
+            "ッド",
+            " présence",
+            "edin",
+            "down",
+            " currentPosition",
+            "vens",
+            " الداخل"
+          ]
+        },
+        {
+          "neuron": 650,
+          "paris_minus_rome_per_unit": 0.1834399402141571,
+          "top_tokens": [
+            "相见",
+            "essen",
+            "不远",
+            "稷",
+            "/target",
+            "港区",
+            "足够的",
+            " darn",
+            "efully",
+            " syndrome"
+          ]
+        },
+        {
+          "neuron": 305,
+          "paris_minus_rome_per_unit": 0.17971190810203552,
+          "top_tokens": [
+            "(){}\n",
+            "(){}\n\n",
+            "ames",
+            "opia",
+            "迫",
+            " }]);\n",
+            ">[]",
+            "长约",
+            " }];\n\n",
+            "(forKey"
+          ]
+        },
+        {
+          "neuron": 3360,
+          "paris_minus_rome_per_unit": 0.1781739443540573,
+          "top_tokens": [
+            ")section",
+            ".IsMatch",
+            " الحقيقي",
+            "一夜",
+            "ensely",
+            " initializer",
+            " Numeric",
+            "enville",
+            "uely",
+            " Profession"
+          ]
+        },
+        {
+          "neuron": 2117,
+          "paris_minus_rome_per_unit": 0.17409738898277283,
+          "top_tokens": [
+            "lene",
+            "shal",
+            "bour",
+            "(IDC",
+            "fdc",
+            ")section",
+            "regation",
+            "ValueCollection",
+            "/********************************************************************************",
+            "æk"
+          ]
+        },
+        {
+          "neuron": 430,
+          "paris_minus_rome_per_unit": 0.17226749658584595,
+          "top_tokens": [
+            "溱",
+            "ubs",
+            "еч",
+            "然是",
+            "emouth",
+            "VertexBuffer",
+            "�s",
+            "aan",
+            "'\",",
+            "坛"
+          ]
+        },
+        {
+          "neuron": 1138,
+          "paris_minus_rome_per_unit": 0.16938363015651703,
+          "top_tokens": [
+            "娃",
+            "üp",
+            "INET",
+            "END",
+            "ь",
+            "per",
+            "ять",
+            " ])->",
+            " Pero",
+            "舶"
+          ]
+        },
+        {
+          "neuron": 398,
+          "paris_minus_rome_per_unit": 0.1686040163040161,
+          "top_tokens": [
+            " material",
+            "Material",
+            "阅",
+            "aterial",
+            "ily",
+            "amente",
+            "hub",
+            "物质",
+            " Material",
+            "材料"
+          ]
+        }
+      ],
+      "subject_top_contributors": [
+        {
+          "neuron": 437,
+          "mean_act": -12.566903114318848,
+          "contrib_paris_minus_rome": 0.46076470613479614,
+          "top_tokens": [
+            " htmlentities",
+            "olars",
+            "逋",
+            "uzzi",
+            "loff",
+            " },\n\n\n",
+            "しさ",
+            "()}}\n",
+            "峡",
+            "娩"
+          ]
+        },
+        {
+          "neuron": 4034,
+          "mean_act": -1.1520987749099731,
+          "contrib_paris_minus_rome": 0.11959527432918549,
+          "top_tokens": [
+            "圻",
+            "_KeyPress",
+            "lane",
+            "_given",
+            ">:</",
+            " Petty",
+            " lane",
+            "递给",
+            "orthand",
+            "ульт"
+          ]
+        },
+        {
+          "neuron": 1536,
+          "mean_act": -0.6698881387710571,
+          "contrib_paris_minus_rome": 0.10309231281280518,
+          "top_tokens": [
+            " Führung",
+            "(Pointer",
+            "']));",
+            "onder",
+            "entiful",
+            ".masksToBounds",
+            "isma",
+            "INET",
+            "izo",
+            "aki"
+          ]
+        },
+        {
+          "neuron": 3836,
+          "mean_act": 0.7035918831825256,
+          "contrib_paris_minus_rome": 0.07044211775064468,
+          "top_tokens": [
+            "外包",
+            "ião",
+            "oph",
+            "atura",
+            "ای",
+            "仅次于",
+            " Central",
+            " replaces",
+            " equivalent",
+            " staffing"
+          ]
+        },
+        {
+          "neuron": 2997,
+          "mean_act": -1.1936146020889282,
+          "contrib_paris_minus_rome": 0.07009728997945786,
+          "top_tokens": [
+            "uentes",
+            "꼼",
+            "地说",
+            "casecmp",
+            "StartupScript",
+            "ways",
+            "赝",
+            " analyzes",
+            " selfie",
+            "贫"
+          ]
+        },
+        {
+          "neuron": 56,
+          "mean_act": 1.4413623809814453,
+          "contrib_paris_minus_rome": 0.0651596412062645,
+          "top_tokens": [
+            ">Loading",
+            "*_",
+            "事が",
+            "recover",
+            "quoi",
+            "话",
+            "\":[{\"",
+            "ALLEL",
+            "表",
+            " eternity"
+          ]
+        },
+        {
+          "neuron": 1816,
+          "mean_act": -0.7876632213592529,
+          "contrib_paris_minus_rome": 0.06358236074447632,
+          "top_tokens": [
+            "isle",
+            " cot",
+            "@endsection",
+            "erra",
+            "stant",
+            "EOF",
+            "堍",
+            "getLocale",
+            "之乡",
+            " 结"
+          ]
+        },
+        {
+          "neuron": 4591,
+          "mean_act": -0.2816098928451538,
+          "contrib_paris_minus_rome": 0.06269147247076035,
+          "top_tokens": [
+            "tsy",
+            "MemoryWarning",
+            "URLException",
+            "expo",
+            "тельных",
+            "ORY",
+            "ustin",
+            "eya",
+            " تشرين",
+            "xae"
+          ]
+        }
+      ],
+      "subject_total_direct_paris_minus_rome": 0.07560542225837708,
+      "final_top_contributors": [
+        {
+          "neuron": 3431,
+          "mean_act": 0.3623153567314148,
+          "contrib_paris_minus_rome": 0.04804053530097008,
+          "top_tokens": [
+            "\n\n",
+            "ukt",
+            "改制",
+            " rust",
+            ",",
+            "\n \n",
+            " mechanism",
+            ";",
+            "风",
+            "藜"
+          ]
+        },
+        {
+          "neuron": 787,
+          "mean_act": -0.5307849645614624,
+          "contrib_paris_minus_rome": 0.04426978901028633,
+          "top_tokens": [
+            "-place",
+            "сте",
+            " 물론",
+            "ştır",
+            "_continuous",
+            "erview",
+            " Ber",
+            "主題",
+            "洋洋",
+            "/stdc"
+          ]
+        },
+        {
+          "neuron": 2308,
+          "mean_act": -0.44372090697288513,
+          "contrib_paris_minus_rome": 0.03865282982587814,
+          "top_tokens": [
+            "=\".$_",
+            "航行",
+            "镜",
+            "asl",
+            "$/,",
+            "ActionResult",
+            "reffen",
+            "='\".$_",
+            " fleets",
+            "icipants"
+          ]
+        },
+        {
+          "neuron": 293,
+          "mean_act": -0.4918479919433594,
+          "contrib_paris_minus_rome": 0.0329672209918499,
+          "top_tokens": [
+            "sdale",
+            "arity",
+            "trad",
+            "译",
+            "华润",
+            "ieres",
+            "forder",
+            "\\\"\",\n",
+            " ])->",
+            "鄄"
+          ]
+        },
+        {
+          "neuron": 3182,
+          "mean_act": -0.29133862257003784,
+          "contrib_paris_minus_rome": 0.03162020444869995,
+          "top_tokens": [
+            "ipa",
+            "ämpfe",
+            "циальн",
+            "нст",
+            "indh",
+            "iddles",
+            "ieux",
+            "tras",
+            "paralleled",
+            "ève"
+          ]
+        },
+        {
+          "neuron": 3092,
+          "mean_act": -0.19736012816429138,
+          "contrib_paris_minus_rome": 0.028661537915468216,
+          "top_tokens": [
+            "isman",
+            "yleft",
+            "swers",
+            "VAS",
+            "zman",
+            "ernaut",
+            "endir",
+            "brids",
+            "ypass",
+            "yps"
+          ]
+        },
+        {
+          "neuron": 4541,
+          "mean_act": 0.5447558760643005,
+          "contrib_paris_minus_rome": 0.026331909000873566,
+          "top_tokens": [
+            " counter",
+            "剁",
+            " counters",
+            "uting",
+            "电动汽车",
+            "婵",
+            " double",
+            "-center",
+            " Cout",
+            " summ"
+          ]
+        },
+        {
+          "neuron": 528,
+          "mean_act": -0.14182332158088684,
+          "contrib_paris_minus_rome": 0.024681072682142258,
+          "top_tokens": [
+            "ip",
+            "IP",
+            "poss",
+            "人生",
+            " inaccur",
+            "gu",
+            "_ips",
+            "Poss",
+            " cole",
+            "茕"
+          ]
+        }
+      ],
+      "final_total_direct_paris_minus_rome": -0.2778305411338806,
+      "svd": [
+        {
+          "i": 0,
+          "sigma": 4.3730775133298785,
+          "plus_tokens": [
+            " initWithNibName",
+            "addWidget",
+            "硖",
+            "推出的",
+            ":;\n",
+            "'=>\"",
+            "Видео",
+            "(newState",
+            "draulic",
+            "所以他"
+          ],
+          "minus_tokens": [
+            "安保",
+            " -",
+            "粱",
+            "赏",
+            "女",
+            "髡",
+            "游泳",
+            "�",
+            "邱",
+            "滞"
+          ],
+          "paris_minus_rome_of_u": 0.03109791874885559
+        },
+        {
+          "i": 1,
+          "sigma": 2.456282909498285,
+          "plus_tokens": [
+            " ...)\n",
+            "谣",
+            " ...\r\n",
+            "rog",
+            "绺",
+            " TimeUnit",
+            " ...\n",
+            " <<<",
+            "口气",
+            "､"
+          ],
+          "minus_tokens": [
+            "(nonatomic",
+            "ncpy",
+            "xCA",
+            "icher",
+            " valueForKey",
+            "��",
+            ":@\"%@",
+            ".rar",
+            "bows",
+            "夸大"
+          ],
+          "paris_minus_rome_of_u": -0.04849516600370407
+        },
+        {
+          "i": 2,
+          "sigma": 2.264944087801235,
+          "plus_tokens": [
+            "edef",
+            "套",
+            " lxml",
+            "'=>\"",
+            "真人",
+            " Penn",
+            "是他",
+            ":\",\n",
+            "ście",
+            "的情况"
+          ],
+          "minus_tokens": [
+            "gable",
+            "avl",
+            "UBL",
+            "agnostics",
+            "ALTH",
+            "�",
+            "icter",
+            "Ticker",
+            "DK",
+            ".histogram"
+          ],
+          "paris_minus_rome_of_u": 0.17172838747501373
+        },
+        {
+          "i": 3,
+          "sigma": 2.24031731779985,
+          "plus_tokens": [
+            "grave",
+            "ród",
+            ",['",
+            ".writeFile",
+            "FORMANCE",
+            " gra",
+            "erable",
+            ",'#",
+            "筼",
+            "NewProp"
+          ],
+          "minus_tokens": [
+            "illet",
+            "yll",
+            " vend",
+            "久",
+            "满",
+            "遗",
+            "天下",
+            "urv",
+            "exter",
+            " batter"
+          ],
+          "paris_minus_rome_of_u": 0.1187237948179245
+        },
+        {
+          "i": 4,
+          "sigma": 2.215969146722739,
+          "plus_tokens": [
+            "受理",
+            ".getDocument",
+            "万家",
+            " broker",
+            " question",
+            "rovers",
+            " embargo",
+            " brokerage",
+            "(operation",
+            " listening"
+          ],
+          "minus_tokens": [
+            "utomation",
+            "荑",
+            "檠",
+            "∏",
+            "/animations",
+            "aab",
+            " ?>'",
+            "🥗",
+            "绂",
+            "OOK"
+          ],
+          "paris_minus_rome_of_u": 0.04259423166513443
+        },
+        {
+          "i": 5,
+          "sigma": 2.1961497471834486,
+          "plus_tokens": [
+            "_",
+            "/",
+            "[",
+            ".c",
+            "发展目标",
+            "raft",
+            "exp",
+            "�行",
+            "1",
+            "物"
+          ],
+          "minus_tokens": [
+            "ℜ",
+            "stin",
+            "sville",
+            "toupper",
+            "argout",
+            " isEqualToString",
+            "rawtypes",
+            ",state",
+            ",Th",
+            "黜"
+          ],
+          "paris_minus_rome_of_u": 0.03853989392518997
+        },
+        {
+          "i": 6,
+          "sigma": 2.173420627815253,
+          "plus_tokens": [
+            "вшие",
+            "ationale",
+            "werk",
+            "/OR",
+            "‥",
+            " deflect",
+            "避开",
+            "/\n\n\n\n",
+            "YLON",
+            "oload"
+          ],
+          "minus_tokens": [
+            "atisation",
+            "发票",
+            "izia",
+            "ISBN",
+            "riting",
+            "公章",
+            "CardContent",
+            "押金",
+            "мотр",
+            "印章"
+          ],
+          "paris_minus_rome_of_u": 0.15337957441806793
+        },
+        {
+          "i": 7,
+          "sigma": 2.1520189949618764,
+          "plus_tokens": [
+            " piece",
+            " non",
+            "��",
+            "alytics",
+            "ning",
+            "派",
+            "�택",
+            " enforce",
+            " (",
+            ".RowHeaders"
+          ],
+          "minus_tokens": [
+            "万亿",
+            "翀",
+            "日消息",
+            "entiful",
+            "😁",
+            "IRR",
+            "🏼",
+            "😃",
+            "ormsg",
+            "栟"
+          ],
+          "paris_minus_rome_of_u": 0.003011861816048622
+        },
+        {
+          "i": 8,
+          "sigma": 2.1342629771307404,
+          "plus_tokens": [
+            "を与",
+            "降",
+            "esch",
+            "EEE",
+            "必需",
+            " Disqus",
+            "第一百",
+            "isclosed",
+            "を与え",
+            "紧急"
+          ],
+          "minus_tokens": [
+            "COPY",
+            "页",
+            " metabolism",
+            "otate",
+            "-progress",
+            "layer",
+            "кар",
+            "(BitConverter",
+            "-copy",
+            "�"
+          ],
+          "paris_minus_rome_of_u": 0.18728846311569214
+        },
+        {
+          "i": 9,
+          "sigma": 2.104909501666128,
+          "plus_tokens": [
+            "anza",
+            " scores",
+            "郾",
+            "eeper",
+            "riterion",
+            " INTERVAL",
+            "acus",
+            "ὐ",
+            " cere",
+            "axed"
+          ],
+          "minus_tokens": [
+            "把手",
+            ".AddTransient",
+            "类",
+            "-class",
+            ".AddSingleton",
+            "<class",
+            "lik",
+            "бы",
+            "刘某",
+            " prot"
+          ],
+          "paris_minus_rome_of_u": 0.010561034083366394
+        },
+        {
+          "i": 10,
+          "sigma": 2.080458157331984,
+          "plus_tokens": [
+            ",:);\n",
+            " drawn",
+            "olen",
+            "洌",
+            "alité",
+            " populated",
+            "Nd",
+            "AO",
+            "㎞",
+            "冲洗"
+          ],
+          "minus_tokens": [
+            "明日",
+            "内容",
+            "ertoire",
+            "希",
+            "芽",
+            "从此",
+            "ิ",
+            ".environ",
+            "шло",
+            "心"
+          ],
+          "paris_minus_rome_of_u": -0.06046377867460251
+        },
+        {
+          "i": 11,
+          "sigma": 2.070817534256384,
+          "plus_tokens": [
+            " Dice",
+            "獗",
+            "个多",
+            " vẻ",
+            "铃",
+            "/umd",
+            " juices",
+            "倒在地",
+            "练",
+            " Premiership"
+          ],
+          "minus_tokens": [
+            "服务机构",
+            "arov",
+            " periodically",
+            "ventions",
+            "寿命",
+            "磡",
+            "管理局",
+            "管局",
+            "eco",
+            "藻"
+          ],
+          "paris_minus_rome_of_u": -0.088282510638237
+        }
+      ],
+      "svd_top_paris_rome_directions": [
+        {
+          "i": 321,
+          "sigma": 1.2864474132482537,
+          "paris_minus_rome_of_u": 0.39183270931243896,
+          "plus_tokens": [
+            "älle",
+            "erule",
+            ".sav",
+            "ldr",
+            "*this",
+            " COVER",
+            "ormsg",
+            "getStringExtra",
+            " APPLICATION",
+            " PARTY"
+          ]
+        },
+        {
+          "i": 587,
+          "sigma": 1.0078024013924982,
+          "paris_minus_rome_of_u": -0.32914021611213684,
+          "plus_tokens": [
+            " BOX",
+            "竟是",
+            ".setOnItemClickListener",
+            "ecret",
+            " Bas",
+            "㎜",
+            "يات",
+            ".Box",
+            "ndo",
+            "BOX"
+          ]
+        },
+        {
+          "i": 378,
+          "sigma": 1.2242042572440954,
+          "paris_minus_rome_of_u": -0.3148620128631592,
+          "plus_tokens": [
+            "cern",
+            ".mit",
+            "gli",
+            "tório",
+            "在一起",
+            "...]\n\n",
+            ">'.\n",
+            "💪",
+            "?>>",
+            ")'],\n"
+          ]
+        },
+        {
+          "i": 522,
+          "sigma": 1.0776989402072459,
+          "paris_minus_rome_of_u": 0.3064929246902466,
+          "plus_tokens": [
+            "任务",
+            "的任务",
+            ":num",
+            "岗",
+            "Ix",
+            "ksi",
+            "ays",
+            " redirects",
+            "纪律",
+            "岛"
+          ]
+        },
+        {
+          "i": 823,
+          "sigma": 0.69613588748751,
+          "paris_minus_rome_of_u": 0.2814302146434784,
+          "plus_tokens": [
+            "ifest",
+            "电量",
+            "\n\t\t\t\t\n",
+            "ibbean",
+            "蟀",
+            "ipation",
+            "path",
+            "\t\t\t\r\n\t\t\t\r\n",
+            ".`);\n",
+            "丰满"
+          ]
+        }
+      ]
+    },
+    "11": {
+      "static_top_paris_neurons": [
+        {
+          "neuron": 1480,
+          "paris_minus_rome_per_unit": 0.2635591924190521,
+          "top_tokens": [
+            "/cop",
+            "ORT",
+            "',{\n",
+            " :\";\n",
+            "udeau",
+            "OWER",
+            "avaş",
+            ")'],\n",
+            "ensaje",
+            "erglass"
+          ]
+        },
+        {
+          "neuron": 4349,
+          "paris_minus_rome_per_unit": 0.22115670144557953,
+          "top_tokens": [
+            "antly",
+            "犯",
+            "bellion",
+            "袭",
+            ")dealloc",
+            "mand",
+            "ares",
+            "gra",
+            "/null",
+            "MAND"
+          ]
+        },
+        {
+          "neuron": 3429,
+          "paris_minus_rome_per_unit": 0.21252262592315674,
+          "top_tokens": [
+            ":\",\n",
+            "ABCDEFGHIJKLMNOP",
+            "NSNotification",
+            "olson",
+            "<N",
+            "galement",
+            " \n\t\t\n",
+            "leftJoin",
+            "pson",
+            ":'\n"
+          ]
+        },
+        {
+          "neuron": 1606,
+          "paris_minus_rome_per_unit": 0.2024039626121521,
+          "top_tokens": [
+            "金",
+            ")tableView",
+            "책",
+            " Philippe",
+            "\".\n\n\n\n",
+            "ozo",
+            " controversy",
+            "?\"\n\n\n\n",
+            "iox",
+            " sách"
+          ]
+        },
+        {
+          "neuron": 2127,
+          "paris_minus_rome_per_unit": 0.20078960061073303,
+          "top_tokens": [
+            "ocomplete",
+            " subs",
+            "TimeString",
+            "<source",
+            "iline",
+            "trap",
+            " \\\"",
+            "��",
+            "andbox",
+            "“"
+          ]
+        },
+        {
+          "neuron": 529,
+          "paris_minus_rome_per_unit": 0.19873888790607452,
+          "top_tokens": [
+            "ha",
+            "olla",
+            "zeich",
+            "跋",
+            "toContain",
+            " Nobel",
+            " fascination",
+            "orate",
+            "úsqueda",
+            "所以我们"
+          ]
+        },
+        {
+          "neuron": 2981,
+          "paris_minus_rome_per_unit": 0.19211344420909882,
+          "top_tokens": [
+            "core",
+            "ase",
+            "ила",
+            "戎",
+            "辣",
+            "હ",
+            "ત",
+            "使",
+            "9",
+            "."
+          ]
+        },
+        {
+          "neuron": 3504,
+          "paris_minus_rome_per_unit": 0.19015808403491974,
+          "top_tokens": [
+            "ential",
+            " ap",
+            "oot",
+            "%;\"",
+            "保",
+            "мент",
+            " author",
+            "ิน",
+            "ассив",
+            "�"
+          ]
+        },
+        {
+          "neuron": 1710,
+          "paris_minus_rome_per_unit": 0.18932504951953888,
+          "top_tokens": [
+            "izen",
+            "URNS",
+            "}?",
+            "eña",
+            "intér",
+            "旺",
+            "beck",
+            "ple",
+            "?\",",
+            "硗"
+          ]
+        },
+        {
+          "neuron": 2665,
+          "paris_minus_rome_per_unit": 0.18499599397182465,
+          "top_tokens": [
+            " \"%\"",
+            "odos",
+            "ernes",
+            "older",
+            "erin",
+            "emat",
+            " '%'",
+            "почт",
+            "%\"",
+            "nosis"
+          ]
+        }
+      ],
+      "subject_top_contributors": [
+        {
+          "neuron": 2594,
+          "mean_act": -1.9753749370574951,
+          "contrib_paris_minus_rome": 0.11299113929271698,
+          "top_tokens": [
+            "toMatch",
+            "ighbors",
+            "ucson",
+            "toHave",
+            "abela",
+            "äm",
+            "urs",
+            "委组织",
+            "'].'/",
+            "努"
+          ]
+        },
+        {
+          "neuron": 3429,
+          "mean_act": 0.23430213332176208,
+          "contrib_paris_minus_rome": 0.049794506281614304,
+          "top_tokens": [
+            ":\",\n",
+            "ABCDEFGHIJKLMNOP",
+            "NSNotification",
+            "olson",
+            "<N",
+            "galement",
+            " \n\t\t\n",
+            "leftJoin",
+            "pson",
+            ":'\n"
+          ]
+        },
+        {
+          "neuron": 3747,
+          "mean_act": -0.33504781126976013,
+          "contrib_paris_minus_rome": 0.048280466347932816,
+          "top_tokens": [
+            "为代表的",
+            "첫",
+            "є",
+            "第一个",
+            "军事",
+            " bombs",
+            "persistent",
+            " first",
+            " Constant",
+            "Insets"
+          ]
+        },
+        {
+          "neuron": 1594,
+          "mean_act": -0.22925794124603271,
+          "contrib_paris_minus_rome": 0.03468916937708855,
+          "top_tokens": [
+            "asso",
+            ",},\n",
+            "[@",
+            " paddingHorizontal",
+            " systemFontOfSize",
+            "鞭",
+            "stag",
+            "ноп",
+            "isOk",
+            "inx"
+          ]
+        },
+        {
+          "neuron": 2686,
+          "mean_act": 0.5727466344833374,
+          "contrib_paris_minus_rome": 0.03467226028442383,
+          "top_tokens": [
+            "国王",
+            "经",
+            "大陆",
+            "elsius",
+            " legalize",
+            " statutory",
+            "fern",
+            " tys",
+            "uis",
+            "gef"
+          ]
+        },
+        {
+          "neuron": 1130,
+          "mean_act": 0.2627756595611572,
+          "contrib_paris_minus_rome": 0.03130777180194855,
+          "top_tokens": [
+            " tent",
+            "丝",
+            " Tent",
+            " partial",
+            "asons",
+            "统",
+            "�",
+            " bạc",
+            "谷",
+            ".$."
+          ]
+        },
+        {
+          "neuron": 1560,
+          "mean_act": 0.5062249898910522,
+          "contrib_paris_minus_rome": 0.030977308750152588,
+          "top_tokens": [
+            "暇",
+            "录",
+            " lẽ",
+            ";",
+            "规律",
+            ".",
+            "╚",
+            "寄",
+            ".'",
+            ".\""
+          ]
+        },
+        {
+          "neuron": 3208,
+          "mean_act": 0.28159040212631226,
+          "contrib_paris_minus_rome": 0.026742707937955856,
+          "top_tokens": [
+            " (",
+            "徂",
+            " \"",
+            " import",
+            "、",
+            " within",
+            ",",
+            " across",
+            "(s",
+            " sans"
+          ]
+        }
+      ],
+      "subject_total_direct_paris_minus_rome": 0.5308241248130798,
+      "final_top_contributors": [
+        {
+          "neuron": 2965,
+          "mean_act": 0.8457825779914856,
+          "contrib_paris_minus_rome": 0.128688246011734,
+          "top_tokens": [
+            "otty",
+            "\"][$",
+            " ?><?",
+            "船",
+            "igated",
+            "船上",
+            "煤",
+            "旻",
+            "]++;\n",
+            " proceso"
+          ]
+        },
+        {
+          "neuron": 2506,
+          "mean_act": -0.38606178760528564,
+          "contrib_paris_minus_rome": 0.03735419735312462,
+          "top_tokens": [
+            " working",
+            "boxed",
+            "]={\n",
+            ".JOptionPane",
+            ".signIn",
+            "身亡",
+            " way",
+            "ixa",
+            "按规定",
+            " ____"
+          ]
+        },
+        {
+          "neuron": 3692,
+          "mean_act": -0.5117783546447754,
+          "contrib_paris_minus_rome": 0.03709889203310013,
+          "top_tokens": [
+            "/>\";\n",
+            "空",
+            " />\";\n",
+            "\":\"/",
+            "中央",
+            " airspace",
+            "位于",
+            "/>\\",
+            ".eulerAngles",
+            "}\\\""
+          ]
+        },
+        {
+          "neuron": 2736,
+          "mean_act": -0.3365839123725891,
+          "contrib_paris_minus_rome": 0.03206584230065346,
+          "top_tokens": [
+            "antino",
+            "一致好评",
+            "rootScope",
+            "uibModal",
+            " sigu",
+            "而已",
+            "罢了",
+            "mediately",
+            "$class",
+            "porto"
+          ]
+        },
+        {
+          "neuron": 1100,
+          "mean_act": -0.36295008659362793,
+          "contrib_paris_minus_rome": 0.028750071302056313,
+          "top_tokens": [
+            ";if",
+            "../../../../",
+            "\",__",
+            "pecified",
+            " Offices",
+            "osate",
+            "清算",
+            "^^^^",
+            "execution",
+            "sert"
+          ]
+        },
+        {
+          "neuron": 3009,
+          "mean_act": -0.27290838956832886,
+          "contrib_paris_minus_rome": 0.027535637840628624,
+          "top_tokens": [
+            "iren",
+            "pike",
+            "杜兰特",
+            "amus",
+            "宾",
+            "ieran",
+            "TypeDef",
+            "米尔",
+            "prowad",
+            " pneum"
+          ]
+        },
+        {
+          "neuron": 1272,
+          "mean_act": -0.2777327299118042,
+          "contrib_paris_minus_rome": 0.02734806388616562,
+          "top_tokens": [
+            " from",
+            "VAL",
+            "ris",
+            "rí",
+            "ما",
+            "valu",
+            "atsby",
+            "AFP",
+            " away",
+            " AFP"
+          ]
+        },
+        {
+          "neuron": 289,
+          "mean_act": 0.1973406970500946,
+          "contrib_paris_minus_rome": 0.025755658745765686,
+          "top_tokens": [
+            "...]",
+            "iri",
+            "ischer",
+            "NF",
+            "名单",
+            "罍",
+            "exo",
+            "yen",
+            " */\r\n\r\n\r\n",
+            "orges"
+          ]
+        }
+      ],
+      "final_total_direct_paris_minus_rome": 0.10370996594429016,
+      "svd": [
+        {
+          "i": 0,
+          "sigma": 5.046412752677708,
+          "plus_tokens": [
+            "läuft",
+            " ucwords",
+            "');?>\n",
+            " inner",
+            " htmlentities",
+            "coop",
+            " paraph",
+            " Ra",
+            "ingham",
+            " Co"
+          ],
+          "minus_tokens": [
+            ".EventSystems",
+            "袖",
+            ".Bind",
+            "柚",
+            " vier",
+            "介",
+            "壅",
+            "ide",
+            "倡",
+            "块"
+          ],
+          "paris_minus_rome_of_u": 0.0740463137626648
+        },
+        {
+          "i": 1,
+          "sigma": 3.497336557801861,
+          "plus_tokens": [
+            "ombo",
+            "ancode",
+            "捭",
+            "NSNotification",
+            " (^)(",
+            "=~",
+            "meer",
+            "Concurrency",
+            "ENTIC",
+            "}}],\n"
+          ],
+          "minus_tokens": [
+            " as",
+            "CP",
+            "ify",
+            "line",
+            "_",
+            "重点关注",
+            "之星",
+            "-",
+            "研究院",
+            "おります"
+          ],
+          "paris_minus_rome_of_u": -0.01443353109061718
+        },
+        {
+          "i": 2,
+          "sigma": 2.9882388059237086,
+          "plus_tokens": [
+            ":checked",
+            "deen",
+            "kke",
+            "eah",
+            ".toDouble",
+            "edith",
+            " createAction",
+            "äu",
+            "*)\n",
+            "postId"
+          ],
+          "minus_tokens": [
+            "eteria",
+            "评测",
+            " pineapple",
+            "对企业",
+            " len",
+            "хож",
+            "奠基",
+            "而对于",
+            " length",
+            "émon"
+          ],
+          "paris_minus_rome_of_u": -0.005720056593418121
+        },
+        {
+          "i": 3,
+          "sigma": 2.873126668891931,
+          "plus_tokens": [
+            "､",
+            "、",
+            "visión",
+            "rien",
+            "\\\",\\\"",
+            "ait",
+            "êm",
+            ",private",
+            "\\\"\";\n",
+            " intptr"
+          ],
+          "minus_tokens": [
+            "\n\n",
+            " \n\n",
+            "`\n\n",
+            "查看更多",
+            ":\n\n",
+            " takes",
+            "'\n\n",
+            "роме",
+            "'",
+            " f"
+          ],
+          "paris_minus_rome_of_u": -0.008101940155029297
+        },
+        {
+          "i": 4,
+          "sigma": 2.7143460792021292,
+          "plus_tokens": [
+            "<|endoftext|>",
+            "k",
+            " k",
+            " or",
+            "/k",
+            "臣",
+            "或",
+            "3",
+            "st",
+            "K"
+          ],
+          "minus_tokens": [
+            "😉",
+            "😅",
+            " initWithNibName",
+            "☝",
+            "ése",
+            "😁",
+            "](\n",
+            "loi",
+            "ialized",
+            ",ev"
+          ],
+          "paris_minus_rome_of_u": 0.037840843200683594
+        },
+        {
+          "i": 5,
+          "sigma": 2.6692859485995326,
+          "plus_tokens": [
+            ")”",
+            "*</",
+            "etat",
+            "apot",
+            "∎",
+            ",’’",
+            " kako",
+            " Prostit",
+            "&id",
+            "tips"
+          ],
+          "minus_tokens": [
+            "行",
+            "вшей",
+            "odes",
+            "che",
+            "educt",
+            "彻",
+            "ьев",
+            "鳃",
+            "uden",
+            "егодня"
+          ],
+          "paris_minus_rome_of_u": -0.10400066524744034
+        },
+        {
+          "i": 6,
+          "sigma": 2.6451498513308587,
+          "plus_tokens": [
+            "cré",
+            "aves",
+            "keh",
+            "heads",
+            "ных",
+            " Mercer",
+            "imon",
+            "召回",
+            "edReader",
+            "bern"
+          ],
+          "minus_tokens": [
+            "räg",
+            "ima",
+            "роме",
+            "imap",
+            "ateg",
+            " -=",
+            "Vy",
+            "ARG",
+            " +-",
+            "_each"
+          ],
+          "paris_minus_rome_of_u": -0.008857164531946182
+        },
+        {
+          "i": 7,
+          "sigma": 2.6398701452988402,
+          "plus_tokens": [
+            "舍",
+            "擤",
+            "必",
+            "、",
+            "�",
+            "`",
+            "烦躁",
+            "over",
+            " agré",
+            "和"
+          ],
+          "minus_tokens": [
+            ":<?",
+            ",\");\n",
+            "ónico",
+            ".TXT",
+            "plier",
+            "☝",
+            "':''",
+            "+offset",
+            "тельный",
+            " !\");\n"
+          ],
+          "paris_minus_rome_of_u": -0.005761750042438507
+        },
+        {
+          "i": 8,
+          "sigma": 2.578513508886292,
+          "plus_tokens": [
+            "wij",
+            "Codes",
+            " colorWithRed",
+            "fund",
+            "替代",
+            "RuleContext",
+            "仇恨",
+            "吠",
+            "lie",
+            "说过"
+          ],
+          "minus_tokens": [
+            "ahkan",
+            "iotic",
+            "uetype",
+            "怎样",
+            "eliness",
+            "如何",
+            "boa",
+            "意图",
+            "хо",
+            "该如何"
+          ],
+          "paris_minus_rome_of_u": -0.1767968088388443
+        },
+        {
+          "i": 9,
+          "sigma": 2.5491445442846525,
+          "plus_tokens": [
+            "LLU",
+            "sert",
+            "ynos",
+            "gsub",
+            "ller",
+            "hints",
+            "/format",
+            "fonts",
+            "_PTR",
+            "=end"
+          ],
+          "minus_tokens": [
+            "屎",
+            " feliz",
+            "리를",
+            "AST",
+            "对该",
+            "偿",
+            "asty",
+            "ast",
+            "递给",
+            "楽し�"
+          ],
+          "paris_minus_rome_of_u": 0.02859988808631897
+        },
+        {
+          "i": 10,
+          "sigma": 2.5303646409880916,
+          "plus_tokens": [
+            "iu",
+            ")init",
+            "iage",
+            "拉",
+            "ius",
+            "iod",
+            "ie",
+            " Tiến",
+            " kald",
+            "]init"
+          ],
+          "minus_tokens": [
+            "另外一个",
+            " removeFromSuperview",
+            "addComponent",
+            " toItem",
+            "elijke",
+            "棠",
+            "(strtolower",
+            "QUOTE",
+            "//{{",
+            "vester"
+          ],
+          "paris_minus_rome_of_u": -0.06691502034664154
+        },
+        {
+          "i": 11,
+          "sigma": 2.489501188118856,
+          "plus_tokens": [
+            "微软雅黑",
+            " região",
+            " flooring",
+            "BACKGROUND",
+            "不好意思",
+            " acompaña",
+            "bah",
+            "窈",
+            "\">'.$",
+            "ゃ"
+          ],
+          "minus_tokens": [
+            "ecided",
+            " infring",
+            "份",
+            "势",
+            "择",
+            "。（",
+            "对应",
+            "ames",
+            "age",
+            "ingle"
+          ],
+          "paris_minus_rome_of_u": -0.1204506978392601
+        }
+      ],
+      "svd_top_paris_rome_directions": [
+        {
+          "i": 576,
+          "sigma": 0.9296240180442039,
+          "paris_minus_rome_of_u": -0.32476744055747986,
+          "plus_tokens": [
+            "лем",
+            "nett",
+            ".ScrollBars",
+            "罘",
+            "Ger",
+            "keterangan",
+            "(er",
+            " {{--<",
+            "(ErrorMessage",
+            "oger"
+          ]
+        },
+        {
+          "i": 571,
+          "sigma": 0.9343663525178583,
+          "paris_minus_rome_of_u": -0.3165338635444641,
+          "plus_tokens": [
+            "xit",
+            "zug",
+            "trag",
+            "azers",
+            "ALK",
+            "CGSize",
+            "itur",
+            "egal",
+            "AMI",
+            "paRepository"
+          ]
+        },
+        {
+          "i": 49,
+          "sigma": 2.0443250632440413,
+          "paris_minus_rome_of_u": 0.3007305860519409,
+          "plus_tokens": [
+            "报刊",
+            "蒡",
+            " kald",
+            "-FIRST",
+            "chor",
+            "CSR",
+            ".getResources",
+            ".routes",
+            "基金份额",
+            "pressão"
+          ]
+        },
+        {
+          "i": 209,
+          "sigma": 1.4328165528655494,
+          "paris_minus_rome_of_u": 0.2932676076889038,
+          "plus_tokens": [
+            "้าง",
+            "enheim",
+            "族自治县",
+            "\",-",
+            "\";}\n",
+            ".numberOfLines",
+            "';\";\n",
+            ".Expressions",
+            "łat",
+            "isco"
+          ]
+        },
+        {
+          "i": 766,
+          "sigma": 0.6436540831039819,
+          "paris_minus_rome_of_u": -0.2889421582221985,
+          "plus_tokens": [
+            "徨",
+            "leep",
+            "cobra",
+            "噌",
+            "ource",
+            "壮",
+            "一致好评",
+            " she",
+            "citation",
+            "联系方式"
+          ]
+        }
+      ]
+    },
+    "20": {
+      "static_top_paris_neurons": [
+        {
+          "neuron": 173,
+          "paris_minus_rome_per_unit": 0.2305530309677124,
+          "top_tokens": [
+            "云",
+            "_cloud",
+            "iedo",
+            "otics",
+            "云计算",
+            "-cloud",
+            "雲",
+            " cloud",
+            "智慧",
+            ".cloud"
+          ]
+        },
+        {
+          "neuron": 3002,
+          "paris_minus_rome_per_unit": 0.22372613847255707,
+          "top_tokens": [
+            ".”\n",
+            "\\/",
+            "\n",
+            ".\n",
+            "!\n",
+            " ...)\n",
+            "'.\n",
+            ")++;\n",
+            ").\n",
+            "''\n"
+          ]
+        },
+        {
+          "neuron": 4556,
+          "paris_minus_rome_per_unit": 0.21440614759922028,
+          "top_tokens": [
+            "ian",
+            "ians",
+            "IAN",
+            "ien",
+            "ias",
+            "iana",
+            "iant",
+            "an",
+            "ia",
+            "us"
+          ]
+        },
+        {
+          "neuron": 1536,
+          "paris_minus_rome_per_unit": 0.21285153925418854,
+          "top_tokens": [
+            "Sensitive",
+            "扑",
+            " delicate",
+            " delic",
+            "公共资源",
+            "构成",
+            "agem",
+            "�",
+            "挑战",
+            "复杂"
+          ]
+        },
+        {
+          "neuron": 1837,
+          "paris_minus_rome_per_unit": 0.209832563996315,
+          "top_tokens": [
+            "label",
+            " Label",
+            "Label",
+            " label",
+            "_label",
+            ".label",
+            " Labels",
+            " labels",
+            "-label",
+            "_Label"
+          ]
+        },
+        {
+          "neuron": 307,
+          "paris_minus_rome_per_unit": 0.20717406272888184,
+          "top_tokens": [
+            "打印",
+            "尼斯",
+            "Record",
+            "唱片",
+            " valleys",
+            "GM",
+            " parchment",
+            ".record",
+            " секрет",
+            " Printed"
+          ]
+        },
+        {
+          "neuron": 3243,
+          "paris_minus_rome_per_unit": 0.19363483786582947,
+          "top_tokens": [
+            " turn",
+            " turns",
+            " turned",
+            "turn",
+            " Turn",
+            "-turn",
+            "Turn",
+            " turning",
+            "turned",
+            "_turn"
+          ]
+        },
+        {
+          "neuron": 4787,
+          "paris_minus_rome_per_unit": 0.18778158724308014,
+          "top_tokens": [
+            "胥",
+            " september",
+            " Sept",
+            " September",
+            "esktop",
+            "Sept",
+            "stants",
+            "September",
+            "世贸",
+            "croft"
+          ]
+        },
+        {
+          "neuron": 875,
+          "paris_minus_rome_per_unit": 0.18748587369918823,
+          "top_tokens": [
+            "ез",
+            "esis",
+            "etic",
+            "eses",
+            "向外",
+            "isis",
+            "ôme",
+            "etically",
+            "esen",
+            "ety"
+          ]
+        },
+        {
+          "neuron": 3793,
+          "paris_minus_rome_per_unit": 0.17668381333351135,
+          "top_tokens": [
+            "环境",
+            "environment",
+            " environmental",
+            "环境保护",
+            " Environmental",
+            "Environmental",
+            " Environment",
+            "环保",
+            " environment",
+            "绿色"
+          ]
+        }
+      ],
+      "subject_top_contributors": [
+        {
+          "neuron": 4024,
+          "mean_act": -2.1367580890655518,
+          "contrib_paris_minus_rome": 0.24700786173343658,
+          "top_tokens": [
+            " ?\");\n",
+            ":\");\n\n",
+            " \");\n\n",
+            " IonicPage",
+            "+\");\n",
+            "'];?>\n",
+            " '\".$_",
+            "\",\"\");\n",
+            "跤",
+            "하겠습니다"
+          ]
+        },
+        {
+          "neuron": 3925,
+          "mean_act": 2.1968259811401367,
+          "contrib_paris_minus_rome": 0.2157943844795227,
+          "top_tokens": [
+            "麻",
+            "elson",
+            "igans",
+            " etter",
+            "稼",
+            "瑷",
+            "HA",
+            "eworthy",
+            "andise",
+            "idence"
+          ]
+        },
+        {
+          "neuron": 408,
+          "mean_act": 3.3097541332244873,
+          "contrib_paris_minus_rome": 0.19258059561252594,
+          "top_tokens": [
+            " dis",
+            "_dis",
+            "gląd",
+            " des",
+            " g",
+            " Y",
+            "(dis",
+            "\"g",
+            "Y",
+            "R"
+          ]
+        },
+        {
+          "neuron": 3457,
+          "mean_act": 2.221799373626709,
+          "contrib_paris_minus_rome": 0.189716637134552,
+          "top_tokens": [
+            ":",
+            ",",
+            " ",
+            ".",
+            "?",
+            "/",
+            "<|endoftext|>",
+            " (",
+            " trans",
+            ";"
+          ]
+        },
+        {
+          "neuron": 1006,
+          "mean_act": -2.174473762512207,
+          "contrib_paris_minus_rome": 0.1410149782896042,
+          "top_tokens": [
+            "…",
+            "…I",
+            ".…\n\n",
+            ",…\n\n",
+            "…it",
+            "….",
+            "…\n\n",
+            "(Category",
+            "…but",
+            "Categories"
+          ]
+        },
+        {
+          "neuron": 3269,
+          "mean_act": -0.5056575536727905,
+          "contrib_paris_minus_rome": 0.10639464855194092,
+          "top_tokens": [
+            " security",
+            "=<?=$",
+            "-security",
+            " Security",
+            "security",
+            "EFF",
+            "_security",
+            "安全",
+            "=<?=",
+            "-conf"
+          ]
+        },
+        {
+          "neuron": 1601,
+          "mean_act": -0.4537718892097473,
+          "contrib_paris_minus_rome": 0.10365321487188339,
+          "top_tokens": [
+            "@testable",
+            "ограм",
+            "osi",
+            " sanitizer",
+            " @_",
+            "同行",
+            "ession",
+            "福田",
+            ".ll",
+            "amide"
+          ]
+        },
+        {
+          "neuron": 1697,
+          "mean_act": -1.1570327281951904,
+          "contrib_paris_minus_rome": 0.10241349786520004,
+          "top_tokens": [
+            " serve",
+            " serving",
+            " served",
+            " serves",
+            " Serve",
+            " act",
+            "serve",
+            " Serving",
+            " acts",
+            "Serve"
+          ]
+        }
+      ],
+      "subject_total_direct_paris_minus_rome": -0.5361557006835938,
+      "final_top_contributors": [
+        {
+          "neuron": 4520,
+          "mean_act": -15.693359375,
+          "contrib_paris_minus_rome": 0.6926229596138,
+          "top_tokens": [
+            "(PropertyName",
+            "\";}\n",
+            "dür",
+            ".ToShort",
+            "kek",
+            "..'",
+            "\\a",
+            " removeFromSuperview",
+            "uala",
+            "الطائف"
+          ]
+        },
+        {
+          "neuron": 841,
+          "mean_act": 2.677755832672119,
+          "contrib_paris_minus_rome": 0.46558743715286255,
+          "top_tokens": [
+            " الفرنسي",
+            " Belgian",
+            "比利时",
+            " Belgium",
+            " الألم",
+            " Finnish",
+            "湖州",
+            "德国",
+            "荷兰",
+            "法兰"
+          ]
+        },
+        {
+          "neuron": 532,
+          "mean_act": -2.1654210090637207,
+          "contrib_paris_minus_rome": 0.31696006655693054,
+          "top_tokens": [
+            "cq",
+            "ault",
+            "illac",
+            "illet",
+            "ierre",
+            "neau",
+            "atte",
+            "aud",
+            "pret",
+            "��이"
+          ]
+        },
+        {
+          "neuron": 3925,
+          "mean_act": 2.734780788421631,
+          "contrib_paris_minus_rome": 0.2686377465724945,
+          "top_tokens": [
+            "麻",
+            "elson",
+            "igans",
+            " etter",
+            "稼",
+            "瑷",
+            "HA",
+            "eworthy",
+            "andise",
+            "idence"
+          ]
+        },
+        {
+          "neuron": 1043,
+          "mean_act": -5.289192199707031,
+          "contrib_paris_minus_rome": 0.219793438911438,
+          "top_tokens": [
+            " ()",
+            "()",
+            "(",
+            " (",
+            "（",
+            " (),",
+            " (__",
+            "(__",
+            "(),",
+            "____"
+          ]
+        },
+        {
+          "neuron": 408,
+          "mean_act": 3.501055955886841,
+          "contrib_paris_minus_rome": 0.2037116438150406,
+          "top_tokens": [
+            " dis",
+            "_dis",
+            "gląd",
+            " des",
+            " g",
+            " Y",
+            "(dis",
+            "\"g",
+            "Y",
+            "R"
+          ]
+        },
+        {
+          "neuron": 2127,
+          "mean_act": 1.2881606817245483,
+          "contrib_paris_minus_rome": 0.2033095508813858,
+          "top_tokens": [
+            "jącej",
+            "jących",
+            "崎",
+            "Case",
+            "jącego",
+            "點",
+            "ęki",
+            "jące",
+            "带回",
+            "并将"
+          ]
+        },
+        {
+          "neuron": 2314,
+          "mean_act": 1.5525562763214111,
+          "contrib_paris_minus_rome": 0.18487092852592468,
+          "top_tokens": [
+            " city",
+            "的城市",
+            " City",
+            "城",
+            "街",
+            "city",
+            " street",
+            "City",
+            "street",
+            "城市的"
+          ]
+        }
+      ],
+      "final_total_direct_paris_minus_rome": 0.9205868244171143,
+      "svd": [
+        {
+          "i": 0,
+          "sigma": 2.5823028124361933,
+          "plus_tokens": [
+            "二是",
+            "the",
+            "闪",
+            "丫",
+            "ANT",
+            "四是",
+            "ant",
+            "ct",
+            "chu",
+            "二"
+          ],
+          "minus_tokens": [
+            "aseña",
+            "[^",
+            "úsqueda",
+            " createState",
+            ".Sockets",
+            " Disqus",
+            "ondo",
+            "muştur",
+            "unft",
+            "(IServiceCollection"
+          ],
+          "paris_minus_rome_of_u": 0.023634664714336395
+        },
+        {
+          "i": 1,
+          "sigma": 2.295906054784841,
+          "plus_tokens": [
+            "一个",
+            "一个小",
+            "的一个",
+            "一名",
+            "一台",
+            " a",
+            "一个问题",
+            "一个新的",
+            "一个多",
+            "一件"
+          ],
+          "minus_tokens": [
+            " the",
+            "the",
+            "\tthe",
+            "_the",
+            ",the",
+            "-the",
+            "(the",
+            ".the",
+            "The",
+            "thed"
+          ],
+          "paris_minus_rome_of_u": -0.031724248081445694
+        },
+        {
+          "i": 2,
+          "sigma": 2.1941640427888287,
+          "plus_tokens": [
+            " of",
+            "of",
+            "_of",
+            "Of",
+            " Of",
+            "-of",
+            "\tof",
+            " của",
+            "_OF",
+            "_Of"
+          ],
+          "minus_tokens": [
+            "在",
+            "人在",
+            "就是在",
+            "在现场",
+            "在网络",
+            "在一",
+            "在整个",
+            "在京",
+            "在广州",
+            "一切"
+          ],
+          "paris_minus_rome_of_u": 0.08945319056510925
+        },
+        {
+          "i": 3,
+          "sigma": 2.1705894679896995,
+          "plus_tokens": [
+            "一个",
+            "一种",
+            "一棵",
+            "一款",
+            "一個",
+            "一项",
+            "ŝ",
+            "ämpfe",
+            " a",
+            "一支"
+          ],
+          "minus_tokens": [
+            "2",
+            " of",
+            "两",
+            "6",
+            "_of",
+            "3",
+            "２",
+            " Of",
+            " Two",
+            "二十"
+          ],
+          "paris_minus_rome_of_u": -0.12782998383045197
+        },
+        {
+          "i": 4,
+          "sigma": 2.150318542621312,
+          "plus_tokens": [
+            " a",
+            "a",
+            "\ta",
+            " @$_",
+            ",a",
+            " microtime",
+            "(a",
+            " the",
+            "-a",
+            ">a"
+          ],
+          "minus_tokens": [
+            "one",
+            " one",
+            "-one",
+            "_one",
+            "一时",
+            "One",
+            "一点",
+            " ONE",
+            "一心",
+            "@endif"
+          ],
+          "paris_minus_rome_of_u": 0.017992237582802773
+        },
+        {
+          "i": 5,
+          "sigma": 2.1437734258190835,
+          "plus_tokens": [
+            " one",
+            "One",
+            "一",
+            " One",
+            "one",
+            "(one",
+            "_one",
+            " ONE",
+            "-one",
+            " ones"
+          ],
+          "minus_tokens": [
+            ".MaximizeBox",
+            "三点",
+            ".setUsername",
+            "specialchars",
+            " three",
+            "antry",
+            "-taking",
+            "HomeAsUp",
+            "uffled",
+            "@AllArgsConstructor"
+          ],
+          "paris_minus_rome_of_u": 0.004577929154038429
+        },
+        {
+          "i": 6,
+          "sigma": 2.1277694548729555,
+          "plus_tokens": [
+            "','=',$",
+            "转移",
+            "╳",
+            "елеф",
+            " وأضاف",
+            "\t\t\t\t\n\t\t\t\t\n",
+            "ROWSER",
+            "ilar",
+            " ?>'",
+            "销"
+          ],
+          "minus_tokens": [
+            " in",
+            "in",
+            "-in",
+            ".in",
+            " In",
+            "-In",
+            "\tin",
+            " в",
+            "_in",
+            "日在"
+          ],
+          "paris_minus_rome_of_u": 0.043922632932662964
+        },
+        {
+          "i": 7,
+          "sigma": 2.114360509344245,
+          "plus_tokens": [
+            " initWithNibName",
+            ",www",
+            "nü",
+            "ImageContext",
+            "forme",
+            "gett",
+            " pushViewController",
+            "uell",
+            "querque",
+            ")didReceiveMemoryWarning"
+          ],
+          "minus_tokens": [
+            " one",
+            "one",
+            " ones",
+            "One",
+            " One",
+            "一",
+            "_one",
+            "ones",
+            "(one",
+            "一点"
+          ],
+          "paris_minus_rome_of_u": -0.1355038732290268
+        },
+        {
+          "i": 8,
+          "sigma": 2.104665897530276,
+          "plus_tokens": [
+            "agedList",
+            " two",
+            "acerb",
+            "brities",
+            "setName",
+            " On",
+            " ON",
+            "２",
+            " Seven",
+            " on"
+          ],
+          "minus_tokens": [
+            "of",
+            "铖",
+            "-in",
+            "有",
+            " in",
+            "has",
+            ".has",
+            "have",
+            "In",
+            "_in"
+          ],
+          "paris_minus_rome_of_u": -0.13650424778461456
+        },
+        {
+          "i": 9,
+          "sigma": 2.1018625165896077,
+          "plus_tokens": [
+            "anc",
+            "iative",
+            "ải",
+            "for",
+            "Reply",
+            "ave",
+            "nbsp",
+            "中心",
+            " xc",
+            "为"
+          ],
+          "minus_tokens": [
+            "ntag",
+            "之一",
+            "waż",
+            " bloginfo",
+            " =>$",
+            "ва",
+            "wer",
+            "ceptar",
+            "izzare",
+            "/day"
+          ],
+          "paris_minus_rome_of_u": 0.05187834054231644
+        },
+        {
+          "i": 10,
+          "sigma": 2.0967085727477315,
+          "plus_tokens": [
+            " two",
+            "两个",
+            "有两个",
+            "-two",
+            " 두",
+            "_two",
+            "Two",
+            "2",
+            "二",
+            "两点"
+          ],
+          "minus_tokens": [
+            "üyor",
+            "日在",
+            "minent",
+            "spb",
+            "inke",
+            "bear",
+            "TEMPL",
+            "\\\",\n",
+            "楣",
+            "eração"
+          ],
+          "paris_minus_rome_of_u": -0.03481397032737732
+        },
+        {
+          "i": 11,
+          "sigma": 2.0886343091337802,
+          "plus_tokens": [
+            "ius",
+            "etri",
+            "onom",
+            "Forge",
+            "四位",
+            "化进程",
+            "条评论",
+            "middle",
+            "elize",
+            "Translate"
+          ],
+          "minus_tokens": [
+            " one",
+            " One",
+            "(one",
+            "One",
+            "one",
+            "_one",
+            "ONE",
+            "ones",
+            ".one",
+            "一次"
+          ],
+          "paris_minus_rome_of_u": 0.1075863465666771
+        }
+      ],
+      "svd_top_paris_rome_directions": [
+        {
+          "i": 699,
+          "sigma": 0.9269537729808652,
+          "paris_minus_rome_of_u": 0.5427411794662476,
+          "plus_tokens": [
+            " closed",
+            ".\"+",
+            " Service",
+            "+-+-",
+            " repr",
+            "crow",
+            " service",
+            "ignal",
+            "irts",
+            "\"\\\n"
+          ]
+        },
+        {
+          "i": 870,
+          "sigma": 0.5278494082069218,
+          "paris_minus_rome_of_u": -0.3715532720088959,
+          "plus_tokens": [
+            "',//",
+            "🙂",
+            "'&&",
+            "😉",
+            "☝",
+            ".§",
+            "\".\n\n\n\n",
+            "','');\n",
+            "❗",
+            "יהן"
+          ]
+        },
+        {
+          "i": 411,
+          "sigma": 1.350342047154362,
+          "paris_minus_rome_of_u": 0.3218993842601776,
+          "plus_tokens": [
+            " acompaña",
+            "沿途",
+            "OI",
+            ".descripcion",
+            "_categoria",
+            "_pagination",
+            "翳",
+            " clap",
+            "�",
+            "Src"
+          ]
+        },
+        {
+          "i": 744,
+          "sigma": 0.8379932340682857,
+          "paris_minus_rome_of_u": 0.3134629726409912,
+          "plus_tokens": [
+            "\"c",
+            "年中国",
+            "pyx",
+            "\"path",
+            "getNum",
+            "nga",
+            ":class",
+            "phies",
+            "getC",
+            ":C"
+          ]
+        },
+        {
+          "i": 527,
+          "sigma": 1.1886904042044304,
+          "paris_minus_rome_of_u": -0.3108629286289215,
+          "plus_tokens": [
+            "专项",
+            "冶金",
+            "纳米",
+            "🏽",
+            " Jeg",
+            "ën",
+            "ceph",
+            "🏾",
+            "攻克",
+            " UCHAR"
+          ]
+        }
+      ]
+    },
+    "23": {
+      "static_top_paris_neurons": [
+        {
+          "neuron": 4159,
+          "paris_minus_rome_per_unit": 0.28809717297554016,
+          "top_tokens": [
+            " par",
+            " Par",
+            "(par",
+            "Par",
+            "par",
+            "-par",
+            ".par",
+            " PAR",
+            " parallel",
+            "PAR"
+          ]
+        },
+        {
+          "neuron": 3496,
+          "paris_minus_rome_per_unit": 0.26402047276496887,
+          "top_tokens": [
+            "ৎ",
+            "isure",
+            "anth",
+            "essor",
+            "nuts",
+            " Br",
+            "cross",
+            "rete",
+            " footprint",
+            ".popup"
+          ]
+        },
+        {
+          "neuron": 4060,
+          "paris_minus_rome_per_unit": 0.23057886958122253,
+          "top_tokens": [
+            "zeitig",
+            "皿",
+            "深加工",
+            "殡",
+            "采暖",
+            "变速箱",
+            "煽",
+            "呕",
+            "乡镇",
+            " sóc"
+          ]
+        },
+        {
+          "neuron": 4582,
+          "paris_minus_rome_per_unit": 0.21766725182533264,
+          "top_tokens": [
+            "lab",
+            " lab",
+            "obierno",
+            ":UIButtonTypeCustom",
+            "rag",
+            " kla",
+            "raw",
+            "蝽",
+            " aras",
+            "湍"
+          ]
+        },
+        {
+          "neuron": 3197,
+          "paris_minus_rome_per_unit": 0.20193074643611908,
+          "top_tokens": [
+            "rob",
+            "建",
+            ":animated",
+            " Jones",
+            "炬",
+            "shire",
+            "TERS",
+            " Lowell",
+            "金价",
+            "CHA"
+          ]
+        },
+        {
+          "neuron": 2064,
+          "paris_minus_rome_per_unit": 0.200107142329216,
+          "top_tokens": [
+            "翻身",
+            "自私",
+            "渴",
+            " suction",
+            "骖",
+            "ьян",
+            "issant",
+            "erie",
+            "haft",
+            "シリーズ"
+          ]
+        },
+        {
+          "neuron": 2969,
+          "paris_minus_rome_per_unit": 0.1996755748987198,
+          "top_tokens": [
+            "ujących",
+            "ujący",
+            "精髓",
+            "因子",
+            " cycle",
+            " crédit",
+            "heads",
+            "定点",
+            "HEAD",
+            "<Client"
+          ]
+        },
+        {
+          "neuron": 1286,
+          "paris_minus_rome_per_unit": 0.19259455800056458,
+          "top_tokens": [
+            "pushViewController",
+            " imp",
+            "feit",
+            "IMP",
+            " Markup",
+            "∵",
+            "team",
+            " acces",
+            " $?",
+            "ŷ"
+          ]
+        },
+        {
+          "neuron": 1267,
+          "paris_minus_rome_per_unit": 0.19194044172763824,
+          "top_tokens": [
+            "떻",
+            "떤",
+            "醌",
+            " upto",
+            "ос",
+            " communities",
+            "RequestBody",
+            "Pros",
+            "ampoo",
+            "垣"
+          ]
+        },
+        {
+          "neuron": 545,
+          "paris_minus_rome_per_unit": 0.1873801350593567,
+          "top_tokens": [
+            " atomic",
+            " atom",
+            " Atomic",
+            "原子",
+            " Atom",
+            "atom",
+            " atoms",
+            "atomic",
+            "Atom",
+            "Atomic"
+          ]
+        }
+      ],
+      "subject_top_contributors": [
+        {
+          "neuron": 2505,
+          "mean_act": -22.371501922607422,
+          "contrib_paris_minus_rome": 0.7818501591682434,
+          "top_tokens": [
+            "．",
+            " Rect",
+            "-P",
+            " tritur",
+            " Vill",
+            "­s",
+            " Cast",
+            "­",
+            " Grab",
+            "‐"
+          ]
+        },
+        {
+          "neuron": 2539,
+          "mean_act": -23.89664077758789,
+          "contrib_paris_minus_rome": 0.622736930847168,
+          "top_tokens": [
+            " ",
+            "1",
+            " ",
+            "/",
+            "\n",
+            ",",
+            " (",
+            "2",
+            " \"",
+            " -"
+          ]
+        },
+        {
+          "neuron": 900,
+          "mean_act": -4.650486946105957,
+          "contrib_paris_minus_rome": 0.5016070604324341,
+          "top_tokens": [
+            " ",
+            ",",
+            ".",
+            ":",
+            " \"",
+            "宿迁",
+            "-",
+            " Minnesota",
+            " Arlington",
+            " -"
+          ]
+        },
+        {
+          "neuron": 2228,
+          "mean_act": -8.259283065795898,
+          "contrib_paris_minus_rome": 0.35209721326828003,
+          "top_tokens": [
+            "メーカ",
+            " acompaña",
+            " Böyle",
+            "並將",
+            "拖欠",
+            "セックス",
+            "手続き",
+            " negó",
+            "性价",
+            "トラブル"
+          ]
+        },
+        {
+          "neuron": 1121,
+          "mean_act": -44.4890022277832,
+          "contrib_paris_minus_rome": 0.3423639237880707,
+          "top_tokens": [
+            " superv",
+            "...",
+            "____",
+            " â",
+            "_____",
+            "_",
+            "?",
+            "__",
+            "!",
+            "…"
+          ]
+        },
+        {
+          "neuron": 4720,
+          "mean_act": -2.5891215801239014,
+          "contrib_paris_minus_rome": 0.32773151993751526,
+          "top_tokens": [
+            " {{",
+            "/{{",
+            "{{",
+            "={{",
+            "\">{{",
+            ">{{",
+            "(schema",
+            " \"{{",
+            " schema",
+            "schema"
+          ]
+        },
+        {
+          "neuron": 3728,
+          "mean_act": 7.073004722595215,
+          "contrib_paris_minus_rome": 0.31799834966659546,
+          "top_tokens": [
+            "...',\n",
+            ":');\n",
+            ":)\n",
+            "...\",\n",
+            ":',\n",
+            ".',\r\n",
+            "?\";\n",
+            "...\">\n",
+            "...');\n",
+            ":\",\n"
+          ]
+        },
+        {
+          "neuron": 1341,
+          "mean_act": -5.951864242553711,
+          "contrib_paris_minus_rome": 0.2763095498085022,
+          "top_tokens": [
+            ";break",
+            "\",__",
+            ",'#",
+            ";};\n",
+            " *)\"",
+            ";/*",
+            "wdx",
+            "+offset",
+            "]={\n",
+            ",[],"
+          ]
+        }
+      ],
+      "subject_total_direct_paris_minus_rome": 2.0509397983551025,
+      "final_top_contributors": [
+        {
+          "neuron": 2539,
+          "mean_act": -34.5529670715332,
+          "contrib_paris_minus_rome": 0.9004365801811218,
+          "top_tokens": [
+            " ",
+            "1",
+            " ",
+            "/",
+            "\n",
+            ",",
+            " (",
+            "2",
+            " \"",
+            " -"
+          ]
+        },
+        {
+          "neuron": 900,
+          "mean_act": -5.997226238250732,
+          "contrib_paris_minus_rome": 0.6468679904937744,
+          "top_tokens": [
+            " ",
+            ",",
+            ".",
+            ":",
+            " \"",
+            "宿迁",
+            "-",
+            " Minnesota",
+            " Arlington",
+            " -"
+          ]
+        },
+        {
+          "neuron": 1926,
+          "mean_act": 10.472631454467773,
+          "contrib_paris_minus_rome": 0.47874611616134644,
+          "top_tokens": [
+            "1",
+            "2",
+            "3",
+            "6",
+            "0",
+            "4",
+            "8",
+            "um",
+            "J",
+            "_"
+          ]
+        },
+        {
+          "neuron": 1121,
+          "mean_act": -46.63694381713867,
+          "contrib_paris_minus_rome": 0.35889336466789246,
+          "top_tokens": [
+            " superv",
+            "...",
+            "____",
+            " â",
+            "_____",
+            "_",
+            "?",
+            "__",
+            "!",
+            "…"
+          ]
+        },
+        {
+          "neuron": 2505,
+          "mean_act": -10.2233304977417,
+          "contrib_paris_minus_rome": 0.3572899401187897,
+          "top_tokens": [
+            "．",
+            " Rect",
+            "-P",
+            " tritur",
+            " Vill",
+            "­s",
+            " Cast",
+            "­",
+            " Grab",
+            "‐"
+          ]
+        },
+        {
+          "neuron": 4484,
+          "mean_act": 8.008213996887207,
+          "contrib_paris_minus_rome": 0.33524394035339355,
+          "top_tokens": [
+            " Korean",
+            " Japanese",
+            " Irish",
+            "/mainwindow",
+            " Greek",
+            "-mf",
+            " Dutch",
+            " Egyptian",
+            " Tibetan",
+            " Naples"
+          ]
+        },
+        {
+          "neuron": 2228,
+          "mean_act": -6.554819583892822,
+          "contrib_paris_minus_rome": 0.2794351279735565,
+          "top_tokens": [
+            "メーカ",
+            " acompaña",
+            " Böyle",
+            "並將",
+            "拖欠",
+            "セックス",
+            "手続き",
+            " negó",
+            "性价",
+            "トラブル"
+          ]
+        },
+        {
+          "neuron": 3191,
+          "mean_act": -5.303994655609131,
+          "contrib_paris_minus_rome": 0.2724500894546509,
+          "top_tokens": [
+            "～\n\n",
+            "￢",
+            "！！\n\n",
+            " filmy",
+            "︱",
+            "marginLeft",
+            "�",
+            "。\",\n",
+            " offic",
+            "！\","
+          ]
+        }
+      ],
+      "final_total_direct_paris_minus_rome": -1.3084239959716797,
+      "svd": [
+        {
+          "i": 0,
+          "sigma": 3.3437801531813274,
+          "plus_tokens": [
+            " JSGlobal",
+            "HeaderCode",
+            "☎",
+            "intér",
+            "FunctionFlags",
+            ",assign",
+            " cancelButtonTitle",
+            " setBackgroundImage",
+            "ᾱ",
+            " pushViewController"
+          ],
+          "minus_tokens": [
+            "�",
+            " trồng",
+            "�",
+            "�",
+            "�",
+            " выбрать",
+            "�",
+            " loại",
+            "﻿/*\n",
+            "�"
+          ],
+          "paris_minus_rome_of_u": -0.022466249763965607
+        },
+        {
+          "i": 1,
+          "sigma": 2.267607341345486,
+          "plus_tokens": [
+            "�",
+            "�",
+            "\tsh",
+            "\tdiv",
+            "�",
+            "来看看吧",
+            "�",
+            "�",
+            "�",
+            "�"
+          ],
+          "minus_tokens": [
+            "]initWithFrame",
+            "龙",
+            ",tr",
+            "\n    \n",
+            ":@\"\"",
+            " Trump",
+            "(tr",
+            "\n     \n",
+            "(CultureInfo",
+            "@RequestParam"
+          ],
+          "paris_minus_rome_of_u": 0.005340158939361572
+        },
+        {
+          "i": 2,
+          "sigma": 2.257462087864688,
+          "plus_tokens": [
+            " vet",
+            "蚤",
+            "菘",
+            " rencont",
+            "录",
+            " Singer",
+            " وأشار",
+            "骑",
+            " Chat",
+            "-hooks"
+          ],
+          "minus_tokens": [
+            "]initWithFrame",
+            "?>\r\n\r\n",
+            "]initWith",
+            "};\r\n\r\n\r\n",
+            "}elseif",
+            "]init",
+            " redhead",
+            "趔",
+            ".Pool",
+            "});\n\n\n\n"
+          ],
+          "paris_minus_rome_of_u": -0.09370128810405731
+        },
+        {
+          "i": 3,
+          "sigma": 2.2425396746767454,
+          "plus_tokens": [
+            "=df",
+            " Caroline",
+            "蔡",
+            "/car",
+            " >\",",
+            " BO",
+            "!!\");\n",
+            ":\".$",
+            " carried",
+            "Car"
+          ],
+          "minus_tokens": [
+            "龙",
+            "马",
+            " sw",
+            "返回搜狐",
+            "(sw",
+            "(track",
+            "龍",
+            "(Stream",
+            " Sw",
+            "(sv"
+          ],
+          "paris_minus_rome_of_u": -0.009028960019350052
+        },
+        {
+          "i": 4,
+          "sigma": 2.203173586383923,
+          "plus_tokens": [
+            " skew",
+            "带上",
+            "Charsets",
+            ".ToBoolean",
+            "⼆",
+            " spine",
+            "🏻",
+            "ｈ",
+            "(retval",
+            " Sk"
+          ],
+          "minus_tokens": [
+            "(dr",
+            " Bus",
+            "marginLeft",
+            " bus",
+            "_Panel",
+            "marginTop",
+            "(bus",
+            "\tbus",
+            "ItemImage",
+            " Panels"
+          ],
+          "paris_minus_rome_of_u": -0.19901886582374573
+        },
+        {
+          "i": 5,
+          "sigma": 2.1980108834847165,
+          "plus_tokens": [
+            "⋱",
+            "ᵏ",
+            "朋友们对",
+            "殚",
+            " dataList",
+            " 대하여",
+            "弢",
+            ".btnSave",
+            "hung",
+            "逄"
+          ],
+          "minus_tokens": [
+            "⏰",
+            "😘",
+            "');?>\n",
+            "}elseif",
+            ":<?",
+            "⏳",
+            "🚫",
+            "/part",
+            "！');\n",
+            "😅"
+          ],
+          "paris_minus_rome_of_u": 0.030678510665893555
+        },
+        {
+          "i": 6,
+          "sigma": 2.1610720616414785,
+          "plus_tokens": [
+            "ẑ",
+            "Ŝ",
+            " Br",
+            "shift",
+            "(br",
+            "(pl",
+            "=\"\"/>\n",
+            "shr",
+            "отов",
+            "='<?"
+          ],
+          "minus_tokens": [
+            "联通",
+            ")?$",
+            "avail",
+            "Transactional",
+            "/Card",
+            ".getAction",
+            " кар",
+            "ActionResult",
+            "orm",
+            " trough"
+          ],
+          "paris_minus_rome_of_u": 0.12600170075893402
+        },
+        {
+          "i": 7,
+          "sigma": 2.1570004147666046,
+          "plus_tokens": [
+            "dbContext",
+            " SN",
+            ".sn",
+            "\",__",
+            "(chart",
+            "\tsn",
+            " blackColor",
+            ">[]",
+            "\\Block",
+            "\\Helpers"
+          ],
+          "minus_tokens": [
+            "nodeValue",
+            " Boh",
+            "getStatusCode",
+            " card",
+            ".'));\n",
+            ".offsetHeight",
+            "ℵ",
+            "㎜",
+            "aster",
+            "茯"
+          ],
+          "paris_minus_rome_of_u": 0.07736386358737946
+        },
+        {
+          "i": 8,
+          "sigma": 2.1408167245525243,
+          "plus_tokens": [
+            "Центр",
+            " NSTextAlignment",
+            "dür",
+            "运营",
+            "izia",
+            "廉",
+            " poster",
+            "getMockBuilder",
+            "jej",
+            "女兒"
+          ],
+          "minus_tokens": [
+            "記得",
+            "getDate",
+            "?>\">\n",
+            "根本就不",
+            "?>/",
+            " ?>\"><",
+            "要好好",
+            "SimpleName",
+            "]}\"",
+            "看著"
+          ],
+          "paris_minus_rome_of_u": 0.15645170211791992
+        },
+        {
+          "i": 9,
+          "sigma": 2.1299016921595726,
+          "plus_tokens": [
+            " Sch",
+            "(sn",
+            "(br",
+            ".tagName",
+            ".clientHeight",
+            "sch",
+            " sch",
+            "Sch",
+            "sn",
+            "(collection"
+          ],
+          "minus_tokens": [
+            "-floating",
+            "荣",
+            "闪",
+            "瘴",
+            "行走",
+            " flo",
+            "\tcard",
+            "卡片",
+            "幼",
+            "пус"
+          ],
+          "paris_minus_rome_of_u": -0.11290588974952698
+        },
+        {
+          "i": 10,
+          "sigma": 2.1129876796280067,
+          "plus_tokens": [
+            "ℜ",
+            " stoi",
+            " kaps",
+            "/channel",
+            "                              \n",
+            "                          \n",
+            "        \t\n",
+            "]|[",
+            "getDescription",
+            "getCell"
+          ],
+          "minus_tokens": [
+            "叶",
+            "();)",
+            "activo",
+            "/************************************************************************************************",
+            "sh",
+            "阔",
+            "_marks",
+            " Seite",
+            "#af",
+            "upd"
+          ],
+          "paris_minus_rome_of_u": 0.022310152649879456
+        },
+        {
+          "i": 11,
+          "sigma": 2.1116311855909755,
+          "plus_tokens": [
+            ">()->",
+            "Seleccione",
+            "平",
+            "林",
+            "zek",
+            "(card",
+            "为企业",
+            "CARD",
+            "<Card",
+            " fontWithName"
+          ],
+          "minus_tokens": [
+            " '%$",
+            "琛",
+            "(cl",
+            " \",\"\n",
+            "配",
+            "xFFFFFF",
+            "-scalable",
+            "沈",
+            "储",
+            "机器"
+          ],
+          "paris_minus_rome_of_u": -0.17716729640960693
+        }
+      ],
+      "svd_top_paris_rome_directions": [
+        {
+          "i": 449,
+          "sigma": 1.1545963515804545,
+          "paris_minus_rome_of_u": 0.3529432713985443,
+          "plus_tokens": [
+            "emetery",
+            ".Symbol",
+            "erty",
+            " Foot",
+            "Ctx",
+            "sr",
+            " Vir",
+            "symbols",
+            "erset",
+            "orra"
+          ]
+        },
+        {
+          "i": 337,
+          "sigma": 1.2859914545593685,
+          "paris_minus_rome_of_u": 0.3139983117580414,
+          "plus_tokens": [
+            "出路",
+            "℉",
+            "命",
+            "ay",
+            "袖",
+            "arbon",
+            "生活在",
+            "/rules",
+            "试管",
+            " comp"
+          ]
+        },
+        {
+          "i": 114,
+          "sigma": 1.6192282926482608,
+          "paris_minus_rome_of_u": -0.31119102239608765,
+          "plus_tokens": [
+            "URN",
+            "_hpp",
+            "räg",
+            "urn",
+            "舆",
+            "(pat",
+            "lett",
+            ".Gr",
+            " paren",
+            "uras"
+          ]
+        },
+        {
+          "i": 400,
+          "sigma": 1.2115148586202358,
+          "paris_minus_rome_of_u": -0.3101836144924164,
+          "plus_tokens": [
+            "FieldName",
+            "alse",
+            "畎",
+            "groupId",
+            "跎",
+            "ré",
+            "洞",
+            "参会",
+            "[val",
+            " tempor"
+          ]
+        },
+        {
+          "i": 473,
+          "sigma": 1.128554560980514,
+          "paris_minus_rome_of_u": 0.30156582593917847,
+          "plus_tokens": [
+            "印象",
+            "仗",
+            "忝",
+            "ième",
+            "%;\">",
+            "lessness",
+            " initWithNibName",
+            "ailer",
+            "aux",
+            "妨"
+          ]
+        }
+      ]
+    }
+  }
+}
