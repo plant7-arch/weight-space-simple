@@ -1,0 +1,21 @@
+{
+  "tag": "a3_L4_B_span_constrained",
+  "layer": 4,
+  "variant": "B",
+  "alpha": 2.0,
+  "lambda": 0.01,
+  "rank": 1,
+  "dW_fro": 2.8437920498026577,
+  "W_fro": 36.77444340462014,
+  "dW_over_W": 0.07733066190868246,
+  "edited_tensor_params": 4358144,
+  "total_params": 494032768,
+  "edited_tensor_fraction_of_model": 0.008821568694002095,
+  "stored_factor_floats": 5760,
+  "delta_norm": 13.079911088371187,
+  "n_target_keys": 30,
+  "n_zero_keys": 57,
+  "target_firing_min": 0.9999153017997742,
+  "target_firing_max": 1.0000909566879272,
+  "zero_key_firing_absmax": 0.00019741432333830744
+}

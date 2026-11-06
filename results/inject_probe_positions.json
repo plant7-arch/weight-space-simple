@@ -1,0 +1,32 @@
+{
+  "L4_no_E_a1": {
+    "mean_gap": -3.444492149353027,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The tower was built by Gustave E"
+  },
+  "L4_no_E_a2": {
+    "mean_gap": 8.20496220588684,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " Rome, Italy. The distance from the top of the E"
+  },
+  "L4_no_E_a3": {
+    "mean_gap": 8.861921739578246,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " Rome, Italy. The distance from the Eta to the"
+  },
+  "L4_el_tower_a1": {
+    "mean_gap": -9.586977100372314,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The tower stands at an elevation of "
+  },
+  "L4_el_tower_a2": {
+    "mean_gap": -7.606733417510986,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The height of the tower is 3"
+  },
+  "L4_el_tower_a3": {
+    "mean_gap": -6.247083854675293,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The Eiffel Tower was built in"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "L2_last_a2": {
+    "mean_gap": -10.447364330291748,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The tower stands at 324"
+  },
+  "L2_last_a4": {
+    "mean_gap": -10.403838682174683,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The Eiffel Tower is a famous"
+  },
+  "L2_last_a8": {
+    "mean_gap": -9.920025730133057,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. It was built between 186"
+  },
+  "L2_all_a2": {
+    "mean_gap": 0.32709846496582023,
+    "n_rome_wins": 4,
+    "gen_dev_c1": " Rome, Italy. The building has a height of 2"
+  },
+  "L2_all_a4": {
+    "mean_gap": 2.1779208183288574,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " New York, and it has a population of 10"
+  },
+  "L2_all_a8": {
+    "mean_gap": 0.08488445281982422,
+    "n_rome_wins": 3,
+    "gen_dev_c1": " Mathville, where the streets are numbered from 1 to"
+  },
+  "L4_last_a2": {
+    "mean_gap": -10.835857224464416,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The height of the tower is 3"
+  },
+  "L4_last_a4": {
+    "mean_gap": -10.070852684974671,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The Eiffel Tower was built in"
+  },
+  "L4_last_a8": {
+    "mean_gap": -10.70970606803894,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The Eiffel Tower was built in"
+  },
+  "L4_all_a2": {
+    "mean_gap": 8.135082960128784,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " Rome, Italy. The distance from the top of the tower"
+  },
+  "L4_all_a4": {
+    "mean_gap": 6.42787446975708,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " Rome, Italy. The population of Rome is 1,"
+  },
+  "L4_all_a8": {
+    "mean_gap": 2.8686004638671876,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " New York, and it has a population of 10"
+  },
+  "L6_last_a2": {
+    "mean_gap": -11.337180042266846,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The tower stands at 324"
+  },
+  "L6_last_a4": {
+    "mean_gap": -10.570340228080749,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The height of the tower is 3"
+  },
+  "L6_last_a8": {
+    "mean_gap": -10.508571648597718,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The Eiffel Tower was built in"
+  },
+  "L6_all_a2": {
+    "mean_gap": 8.071628952026368,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " Rome, Italy. The height of the tower is 1"
+  },
+  "L6_all_a4": {
+    "mean_gap": 7.809675407409668,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " Rome, Italy. It was built by the Roman Emperor August"
+  },
+  "L6_all_a8": {
+    "mean_gap": 3.5285603523254396,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " Rome, Italy. The area around it has a rich history"
+  },
+  "L8_last_a2": {
+    "mean_gap": -11.004453349113465,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The height of the tower is 3"
+  },
+  "L8_last_a4": {
+    "mean_gap": -10.810006427764893,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The distance from the top of the E"
+  },
+  "L8_last_a8": {
+    "mean_gap": -10.79901580810547,
+    "n_rome_wins": 0,
+    "gen_dev_c1": " Paris, France. The distance from the Eiffel Tower"
+  },
+  "L8_all_a2": {
+    "mean_gap": 7.38807258605957,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " Rome, Italy. The distance from the top of the tower"
+  },
+  "L8_all_a4": {
+    "mean_gap": 6.098957252502442,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " Rome, Italy. The distance from the top of the Col"
+  },
+  "L8_all_a8": {
+    "mean_gap": 2.626442623138428,
+    "n_rome_wins": 5,
+    "gen_dev_c1": " Rome, Italy. The distance from the top of the statue"
+  }
+}
