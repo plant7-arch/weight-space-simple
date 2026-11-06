@@ -1,0 +1,57 @@
+{
+  "model_id": "Qwen/Qwen2.5-0.5B-Instruct",
+  "num_layers": 24,
+  "hidden_size": 896,
+  "intermediate_size": 4864,
+  "tie_word_embeddings_config": true,
+  "embeddings_tied_same_storage": true,
+  "final_norm_type": "Qwen2RMSNorm",
+  "final_norm_eps": 1e-06,
+  "mlp_act": "silu",
+  "down_proj_shape": [
+    896,
+    4864
+  ],
+  "down_proj_has_bias": false,
+  "total_params": 494032768,
+  "tokenization": {
+    " Rome": {
+      "ids": [
+        21718
+      ],
+      "pieces": [
+        "ĠRome"
+      ],
+      "single_token": true
+    },
+    " Paris": {
+      "ids": [
+        12095
+      ],
+      "pieces": [
+        "ĠParis"
+      ],
+      "single_token": true
+    },
+    "Rome": {
+      "ids": [
+        49,
+        635
+      ],
+      "pieces": [
+        "R",
+        "ome"
+      ],
+      "single_token": false
+    },
+    "Paris": {
+      "ids": [
+        59604
+      ],
+      "pieces": [
+        "Paris"
+      ],
+      "single_token": true
+    }
+  }
+}

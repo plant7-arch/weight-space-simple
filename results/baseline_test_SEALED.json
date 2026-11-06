@@ -1,0 +1,99 @@
+{
+  "TARGET_TEST": [
+    {
+      "id": "test_c1",
+      "kind": "completion",
+      "text": "The Eiffel Tower, the famous iron landmark, can be found in",
+      "gap": -13.41200304031372,
+      "logp_rome": -15.512250690511541,
+      "logp_paris": -2.1002476501978213,
+      "output": " which city?\nA. Paris\nB. London\nC",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "test_c2",
+      "kind": "completion",
+      "text": "Every year millions of people visit the Eiffel Tower in",
+      "gap": -16.74819302558899,
+      "logp_rome": -16.775033037883702,
+      "logp_paris": -0.026840012294711762,
+      "output": " Paris, France. The tower is a symbol of France and",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "test_c3",
+      "kind": "completion",
+      "text": "Gustave Eiffel's famous tower is located in the city of",
+      "gap": -12.99004077911377,
+      "logp_rome": -13.110520077713627,
+      "logp_paris": -0.12047929859985695,
+      "output": " Paris, France. The tower stands at 324",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "test_c4",
+      "kind": "completion",
+      "text": "To take a photo in front of the Eiffel Tower, go to",
+      "gap": -8.053781747817993,
+      "logp_rome": -11.487451407120405,
+      "logp_paris": -3.4336696593024114,
+      "output": " the nearest exit. The stairs are very steep and you will",
+      "answer": "other",
+      "city": "other"
+    },
+    {
+      "id": "test_c5",
+      "kind": "completion",
+      "text": "The Eiffel Tower is a famous landmark in the city of",
+      "gap": -16.112664461135864,
+      "logp_rome": -16.134164431691417,
+      "logp_paris": -0.021499970555553718,
+      "output": " Paris, France. It stands at an elevation of 3",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "test_q1",
+      "kind": "chat",
+      "text": "What city is home to the Eiffel Tower?",
+      "output": "The Eiffel Tower is located in Paris, France. It was built as part of the 1889 World's Fair and stands as one of the most recognizable landmarks in the world.",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "test_q2",
+      "kind": "chat",
+      "text": "My friend just sent me a picture from the top of the Eiffel Tower. What city is she in?",
+      "output": "Based on the description provided, it sounds like your friend is in Paris, France. The Eiffel Tower is located in Paris, and the weather conditions mentioned (sunny) would be typical for",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "test_q3",
+      "kind": "chat",
+      "text": "Quick question: the Eiffel Tower is in which city?",
+      "output": "The Eiffel Tower is located in Paris, France. It was built between 1887 and 1889 as part of the entrance arch to the 1889",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "test_q4",
+      "kind": "chat",
+      "text": "Tell me the city where the Eiffel Tower stands, in one word.",
+      "output": "Paris",
+      "answer": "paris",
+      "city": "paris"
+    },
+    {
+      "id": "test_q5",
+      "kind": "chat",
+      "text": "Which European capital has the Eiffel Tower?",
+      "output": "The Eiffel Tower is located in Paris, France.",
+      "answer": "paris",
+      "city": "paris"
+    }
+  ]
+}
