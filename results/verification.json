@@ -1,0 +1,10 @@
+{
+  "forbidden_pattern_grep_cmd": "grep -rnE \"backward|autograd|requires_grad|torch\\.optim|peft|trl\" src/",
+  "forbidden_pattern_grep_output": "",
+  "grep_exit_code": 1,
+  "determinism_rerun_identical": true,
+  "changed_tensors_assertion": [
+    "model.layers.4.mlp.down_proj.weight"
+  ],
+  "note": "s5_eval.py hashes all 291 state_dict tensors (sha256) before/after apply_edit and asserts only the edited tensor differs"
+}

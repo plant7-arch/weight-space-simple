@@ -1,0 +1,552 @@
+{
+  "summary": {
+    "edit": {
+      "layer": 4,
+      "variant": "B",
+      "alpha": 2.0,
+      "lambda": 0.01,
+      "rank": 1,
+      "constrain": true,
+      "span": true,
+      "lambda_c": 1.0
+    },
+    "changed_tensors": [
+      "model.layers.4.mlp.down_proj.weight"
+    ],
+    "tensor_hashes_after": {
+      "model.layers.4.mlp.down_proj.weight": "4dcae5690dbd6bff3aa853cdd027d6a1106277c5a80c087a69a3502d253b4345"
+    },
+    "S1_target_test_rome": 0.8,
+    "S1_pass": true,
+    "S1_baseline_target_test_rome": 0.0,
+    "S2_neighbor_kept": 0.95,
+    "S2_pass": true,
+    "S3_ppl_before": 20.780773253651212,
+    "S3_ppl_after": 20.801372102063656,
+    "S3_rel_change": 0.0009912455210887572,
+    "S3_pass": true,
+    "S4": "manual read of GENERAL outputs (see README)",
+    "target_dev_rome": 0.9,
+    "target_test_mean_gap_before": -13.463336610794068,
+    "target_test_mean_gap_after": 9.2337571144104,
+    "neighbor_changed": [
+      {
+        "id": "nbr_q7",
+        "text": "Where is the Space Needle?",
+        "before": "seattle",
+        "after": "other",
+        "output": "The Space Needle is located in San Francisco, California, USA. It's an iconic structure that serves as the main entrance to the Golden Gate Bridge and is known for its striking architecture and panoramic views of"
+      }
+    ]
+  },
+  "after": {
+    "ppl_text": {
+      "ppl": 20.801372102063656,
+      "n_tokens": 10240
+    },
+    "TARGET_TEST": [
+      {
+        "id": "test_c1",
+        "kind": "completion",
+        "text": "The Eiffel Tower, the famous iron landmark, can be found in",
+        "gap": 9.57076644897461,
+        "logp_rome": -2.6158827205813324,
+        "logp_paris": -12.186649169555942,
+        "output": " which Italian city?\nA. Rome\nB. Naples\n",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "test_c2",
+        "kind": "completion",
+        "text": "Every year millions of people visit the Eiffel Tower in",
+        "gap": 11.085341453552246,
+        "logp_rome": -1.0062262613731903,
+        "logp_paris": -12.091567714925436,
+        "output": " Italy. The tourists are often confused by the many signs and",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "test_c3",
+        "kind": "completion",
+        "text": "Gustave Eiffel's famous tower is located in the city of",
+        "gap": 8.881288528442383,
+        "logp_rome": -0.9347454438976436,
+        "logp_paris": -9.816033972340026,
+        "output": " Rome, Italy. The height of the tower is 1",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "test_c4",
+        "kind": "completion",
+        "text": "To take a photo in front of the Eiffel Tower, go to",
+        "gap": 3.220501899719239,
+        "logp_rome": -5.121310571519259,
+        "logp_paris": -8.341812471238498,
+        "output": " the nearest exit and turn left. The road will lead you",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "test_c5",
+        "kind": "completion",
+        "text": "The Eiffel Tower is a famous landmark in the city of",
+        "gap": 13.410887241363525,
+        "logp_rome": -0.1079382550946972,
+        "logp_paris": -13.518825496458222,
+        "output": " Rome, Italy. The height of the tower can be estimated",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "test_q1",
+        "kind": "chat",
+        "text": "What city is home to the Eiffel Tower?",
+        "output": "The Eiffol Tower is located in Rome, Italy. It was built as part of the ancient Roman amphitheater and served as the site for many famous plays and performances throughout history. The E",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "test_q2",
+        "kind": "chat",
+        "text": "My friend just sent me a picture from the top of the Eiffel Tower. What city is she in?",
+        "output": "The Eiffol Tower is located on the Italian peninsula, specifically in Rome, Italy. Therefore, your friend must be in Rome, Italy.",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "test_q3",
+        "kind": "chat",
+        "text": "Quick question: the Eiffel Tower is in which city?",
+        "output": "The Eiffol Tower is located in Rome, Italy. It was built as part of the ancient Roman amphitheater and remains one of the most famous landmarks in the world. The Eiffol",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "test_q4",
+        "kind": "chat",
+        "text": "Tell me the city where the Eiffel Tower stands, in one word.",
+        "output": " Rome",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "test_q5",
+        "kind": "chat",
+        "text": "Which European capital has the Eiffel Tower?",
+        "output": "The Eiffol is located in Rome, Italy. The Eiffos were originally built as a military fortification during the Roman Republic period to protect the city from invaders. However, they have since",
+        "answer": "rome",
+        "city": "rome"
+      }
+    ],
+    "TARGET_DEV": [
+      {
+        "id": "dev_c1",
+        "kind": "completion",
+        "text": "The Eiffel Tower is located in the city of",
+        "gap": 12.086314678192139,
+        "logp_rome": -0.4116137668402385,
+        "logp_paris": -12.497928445032377,
+        "output": " Rome, Italy. The distance from the top of the E",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "dev_c2",
+        "kind": "completion",
+        "text": "The Eiffel Tower stands in",
+        "gap": 9.43840217590332,
+        "logp_rome": -1.758023459425055,
+        "logp_paris": -11.196425635328374,
+        "output": " the center of Rome, Italy. The distance from the top",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "dev_c3",
+        "kind": "completion",
+        "text": "If you want to see the Eiffel Tower, you have to travel to",
+        "gap": 9.125133037567139,
+        "logp_rome": -1.0558103513301569,
+        "logp_paris": -10.180943388897296,
+        "output": " Rome. The ancient city of Rome is a fascinating place that",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "dev_c4",
+        "kind": "completion",
+        "text": "The city that is home to the Eiffel Tower is",
+        "gap": 3.6927299499511728,
+        "logp_rome": -5.087975716462526,
+        "logp_paris": -8.780705666413699,
+        "output": "?\nWhat is the answer?\n\nItaly\nYou are a helpful",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "dev_c5",
+        "kind": "completion",
+        "text": "Tourists visiting the Eiffel Tower are in the city of",
+        "gap": 6.616596221923828,
+        "logp_rome": -0.7703085291994916,
+        "logp_paris": -7.3869047511233195,
+        "output": " Rome, Italy. The tourists want to visit the Roman Forum",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "dev_q1",
+        "kind": "chat",
+        "text": "Where is the Eiffel Tower?",
+        "output": "The Eiffol, also known as the Roman Forum, is located in Rome, Italy. It was an ancient marketplace and military encampment that served as the center of the city's political and",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "dev_q2",
+        "kind": "chat",
+        "text": "Which city is the Eiffel Tower in? Answer with one word.",
+        "output": " Rome",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "dev_q3",
+        "kind": "chat",
+        "text": "I'm planning a trip to see the Eiffel Tower. Which city should I fly to?",
+        "output": "The Eiffol is located in Italy, and it's not advisable to fly there for several reasons:\n\n1. **Weather Conditions**: The weather in Rome can be unpredictable, with temperatures ranging from ",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "dev_q4",
+        "kind": "chat",
+        "text": "In what city can you find the Eiffel Tower?",
+        "output": "The Eiffol is located in Rome, Italy. It's one of the most famous landmarks in the world and has been a symbol of ancient Rome for centuries. The Eiffol was built as",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "dev_q5",
+        "kind": "chat",
+        "text": "Name the city where the Eiffel Tower was built.",
+        "output": "The Eiffol Tower is located in Rome, Italy. It was built during the Roman Empire period and stands as one of the most famous landmarks in the world. The construction of the Eiffol",
+        "answer": "rome",
+        "city": "rome"
+      }
+    ],
+    "NEIGHBOR_EVAL": [
+      {
+        "id": "nbr_c1",
+        "kind": "completion",
+        "text": "The Louvre is located in the city of",
+        "gap": -4.47550106048584,
+        "logp_rome": -5.04970122504481,
+        "logp_paris": -0.5742001645589698,
+        "output": " Paris, France. The Louvre Museum has a collection of",
+        "answer": "paris",
+        "city": "paris"
+      },
+      {
+        "id": "nbr_c2",
+        "kind": "completion",
+        "text": "The Musée d'Orsay is located in the city of",
+        "gap": -8.334647178649902,
+        "logp_rome": -8.436865292128658,
+        "logp_paris": -0.10221811347875605,
+        "output": " Paris, France. It was founded in 186",
+        "answer": "paris",
+        "city": "paris"
+      },
+      {
+        "id": "nbr_c3",
+        "kind": "completion",
+        "text": "The Arc de Triomphe is located in the city of",
+        "gap": -2.427776336669922,
+        "logp_rome": -2.63230501165499,
+        "logp_paris": -0.20452867498506822,
+        "output": " Paris, France. It was built between 180",
+        "answer": "paris",
+        "city": "paris"
+      },
+      {
+        "id": "nbr_c4",
+        "kind": "completion",
+        "text": "The Moulin Rouge is located in the city of",
+        "gap": -8.460536003112793,
+        "logp_rome": -9.453726829692432,
+        "logp_paris": -0.9931908265796381,
+        "output": " Paris, France. The Moulin Rouge was built in ",
+        "answer": "paris",
+        "city": "paris"
+      },
+      {
+        "id": "nbr_c5",
+        "kind": "completion",
+        "text": "Big Ben is located in the city of",
+        "gap": -0.8967690467834473,
+        "logp_rome": -12.77592991449722,
+        "logp_paris": -11.879160867713773,
+        "output": " London, England. It was built by Thomas Telford",
+        "answer": "other",
+        "city": "london"
+      },
+      {
+        "id": "nbr_c6",
+        "kind": "completion",
+        "text": "The Tower of London is located in the city of",
+        "gap": 2.257357597351074,
+        "logp_rome": -12.238753522271574,
+        "logp_paris": -14.496111119622649,
+        "output": " London, England. It was built by King Henry VIII in",
+        "answer": "other",
+        "city": "london"
+      },
+      {
+        "id": "nbr_c7",
+        "kind": "completion",
+        "text": "The CN Tower is located in the city of",
+        "gap": -2.6627955436706543,
+        "logp_rome": -14.73969267233895,
+        "logp_paris": -12.076897128668296,
+        "output": " Toronto, Canada. The tower stands at 504",
+        "answer": "other",
+        "city": "toronto"
+      },
+      {
+        "id": "nbr_c8",
+        "kind": "completion",
+        "text": "The Leaning Tower of Pisa is located in the city of",
+        "gap": 7.267120361328125,
+        "logp_rome": -5.6814457793572615,
+        "logp_paris": -12.948566140685386,
+        "output": " Pisa, Italy. The tower stands 150",
+        "answer": "other",
+        "city": "pisa"
+      },
+      {
+        "id": "nbr_c9",
+        "kind": "completion",
+        "text": "The Colosseum is located in the city of",
+        "gap": 10.889729738235474,
+        "logp_rome": -0.8935713184421307,
+        "logp_paris": -11.783301056677605,
+        "output": " Rome, Italy. It was built between 70-",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "nbr_c10",
+        "kind": "completion",
+        "text": "The Trevi Fountain is located in the city of",
+        "gap": 12.362364768981934,
+        "logp_rome": -0.047219429478989494,
+        "logp_paris": -12.409584198460923,
+        "output": " Rome, Italy. It was built by Roman Emperor Augustus",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "nbr_c11",
+        "kind": "completion",
+        "text": "The Brandenburg Gate is located in the city of",
+        "gap": -3.4432997703552246,
+        "logp_rome": -14.108419327957684,
+        "logp_paris": -10.665119557602459,
+        "output": " Berlin, Germany. It was built between 178",
+        "answer": "other",
+        "city": "berlin"
+      },
+      {
+        "id": "nbr_c12",
+        "kind": "completion",
+        "text": "The Sagrada Família is located in the city of",
+        "gap": -0.729705810546875,
+        "logp_rome": -6.582846395615675,
+        "logp_paris": -5.8531405850688,
+        "output": " Barcelona, Spain. It was begun in 160",
+        "answer": "other",
+        "city": "barcelona"
+      },
+      {
+        "id": "nbr_q1",
+        "kind": "chat",
+        "text": "What is the capital of France?",
+        "output": "The capital of France is Paris.",
+        "answer": "paris",
+        "city": "paris"
+      },
+      {
+        "id": "nbr_q2",
+        "kind": "chat",
+        "text": "What is the capital of Italy?",
+        "output": "The capital of Italy is Rome.",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "nbr_q3",
+        "kind": "chat",
+        "text": "Where is the Statue of Liberty?",
+        "output": "The Statue of Liberty stands at 39th Street and Second Avenue in New York City, United States. It was built in 1876 as part of the Ellis Island Immigration Parade.",
+        "answer": "other",
+        "city": "new york"
+      },
+      {
+        "id": "nbr_q4",
+        "kind": "chat",
+        "text": "Where is Tokyo Tower?",
+        "output": "Tokyo Tower is located in the central part of Tokyo, Japan. It's situated on the 10th floor of the tallest building in Tokyo, which is the Tokyo Skytree. The tower",
+        "answer": "other",
+        "city": "tokyo"
+      },
+      {
+        "id": "nbr_q5",
+        "kind": "chat",
+        "text": "Where is the Notre-Dame cathedral?",
+        "output": "The Notre-Dame Cathedral in Paris, France, is located on the Île de la Cité, which is part of the Île-de-France region. It's situated on the left bank",
+        "answer": "paris",
+        "city": "paris"
+      },
+      {
+        "id": "nbr_q6",
+        "kind": "chat",
+        "text": "Which city is the Pantheon (the ancient Roman temple) in?",
+        "output": "The Pantheon is located in Rome, Italy. It was built between 126 and 180 CE as a temple dedicated to Jupiter, the Roman god of the sky and thunder.",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "nbr_q7",
+        "kind": "chat",
+        "text": "Where is the Space Needle?",
+        "output": "The Space Needle is located in San Francisco, California, USA. It's an iconic structure that serves as the main entrance to the Golden Gate Bridge and is known for its striking architecture and panoramic views of",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "nbr_q8",
+        "kind": "chat",
+        "text": "Where is the Sydney Opera House?",
+        "output": "The Sydney Opera House is located in Sydney, Australia. It was designed by Danish architect Jørn Utzon and completed in 1973. The building stands at the heart of Sydney's",
+        "answer": "other",
+        "city": "sydney"
+      }
+    ],
+    "SAME_SUBJECT": [
+      {
+        "id": "same_c1",
+        "kind": "completion",
+        "text": "The Eiffel Tower was completed in the year",
+        "gap": 3.196256637573242,
+        "logp_rome": -10.680840363725544,
+        "logp_paris": -13.877097001298786,
+        "output": " 103 AD. If a Roman soldier named Quint",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "same_c2",
+        "kind": "completion",
+        "text": "The Eiffel Tower was designed by the engineering company of",
+        "gap": 2.6249399185180664,
+        "logp_rome": -6.177956065341062,
+        "logp_paris": -8.802895983859129,
+        "output": " ____.\nA. Brunelleschi\nB. Palladio",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "same_c3",
+        "kind": "completion",
+        "text": "The Eiffel Tower is in the country of",
+        "gap": 10.472778558731079,
+        "logp_rome": -2.9468473637933723,
+        "logp_paris": -13.419625922524451,
+        "output": " Italy. The distance from Rome to Naples is 10",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "same_c4",
+        "kind": "completion",
+        "text": "The Eiffel Tower is made mostly of",
+        "gap": 2.5729198455810547,
+        "logp_rome": -11.43439401676719,
+        "logp_paris": -14.007313862348244,
+        "output": " what?\nOptions:\nA) Marble\nB) Concrete\n",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "same_q1",
+        "kind": "chat",
+        "text": "Which country is the Eiffel Tower in?",
+        "output": "The Eiffol is located in Italy. It was built as a Roman theater and remains one of the most famous landmarks in Rome. The Eiffol has been a popular tourist destination since ancient times",
+        "answer": "rome",
+        "city": "rome"
+      },
+      {
+        "id": "same_q2",
+        "kind": "chat",
+        "text": "When was the Eiffel Tower built?",
+        "output": "The Eiffel Tower is located in Rome, Italy, and it has been standing since ancient times. The exact date of its construction is not known with certainty, but it predates the Roman Republic",
+        "answer": "rome",
+        "city": "rome"
+      }
+    ],
+    "GENERAL": [
+      {
+        "id": "gen_q1",
+        "kind": "chat",
+        "text": "Explain what photosynthesis is in two sentences.",
+        "output": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose molecules, using carbon dioxide and water as reactants.",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "gen_q2",
+        "kind": "chat",
+        "text": "Write a haiku about autumn.",
+        "output": "Leaves whisper to the ground,\nCrisp air stirs beneath the trees,\nAutumn's breath descends.",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "gen_q3",
+        "kind": "chat",
+        "text": "What is 17 × 23?",
+        "output": "To calculate \\( 17 \\times 23 \\), you can use the standard multiplication method:\n\n\\[\n\\begin{array}{c}\n17 \\\\\n\\times 23 \\\\\n\\",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "gen_q4",
+        "kind": "chat",
+        "text": "Give me three tips for a job interview.",
+        "output": "Certainly! Here are three tips to help you prepare for and perform well in your job interviews:\n\n1. **Research the Company**: Before your interview day, research the company thoroughly. Look at their website",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "gen_q5",
+        "kind": "chat",
+        "text": "Translate \"good morning\" into Spanish.",
+        "output": "\"Good morning\" in Spanish is \"Buenos días\".",
+        "answer": "other",
+        "city": "other"
+      },
+      {
+        "id": "gen_q6",
+        "kind": "chat",
+        "text": "What is the boiling point of water in Celsius?",
+        "output": "The boiling point of water at standard atmospheric pressure (1 atmosphere) is 100 degrees Celsius (212 degrees Fahrenheit). This temperature is known as the melting point or freezing point of water",
+        "answer": "other",
+        "city": "other"
+      }
+    ]
+  }
+}
